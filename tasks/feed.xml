@@ -5,12 +5,12 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 28 Aug 2026 08:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 03:57:52 GMT</lastBuildDate>
     <item>
       <title>Add `is_extended_promotional ` column to components (from data source)</title>
       <link>https://github.com/tscircuit/jlcsearch/issues/92</link>
       <guid isPermaLink="true">https://github.com/tscircuit/jlcsearch/issues/92</guid>
-      <pubDate>Fri, 28 Aug 2026 08:18:35 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 03:57:52 GMT</pubDate>
       <category>development</category>
       <description>Some parts are &quot;extended promotional&quot; which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75 Reward: $75. AI policy: unknown.</description>
     </item>
