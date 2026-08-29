@@ -1,0 +1,52 @@
+[
+  {
+    "id": "github-tscircuit-bounties",
+    "name": "tscircuit public bounties",
+    "platform_id": "github-bounties",
+    "type": "github_search",
+    "url": "https://github.com/orgs/tscircuit/repositories",
+    "trust_level": "curated",
+    "update_interval_minutes": 15,
+    "stale_after_days": 45
+  },
+  {
+    "id": "github-activepieces-bounties",
+    "name": "Activepieces public bounties",
+    "platform_id": "github-bounties",
+    "type": "github_search",
+    "url": "https://github.com/activepieces/activepieces/issues",
+    "trust_level": "curated",
+    "update_interval_minutes": 15,
+    "stale_after_days": 45
+  },
+  {
+    "id": "github-gyroflow-bounties",
+    "name": "Gyroflow public bounties",
+    "platform_id": "github-bounties",
+    "type": "github_search",
+    "url": "https://github.com/gyroflow/gyroflow/issues",
+    "trust_level": "curated",
+    "update_interval_minutes": 15,
+    "stale_after_days": 60
+  },
+  {
+    "id": "github-edgechains-bounties",
+    "name": "EdgeChains public bounties",
+    "platform_id": "github-bounties",
+    "type": "github_search",
+    "url": "https://github.com/arakoodev/EdgeChains/issues",
+    "trust_level": "curated",
+    "update_interval_minutes": 15,
+    "stale_after_days": 60
+  },
+  {
+    "id": "github-daytona-content-bounties",
+    "name": "Daytona content bounties",
+    "platform_id": "github-bounties",
+    "type": "github_search",
+    "url": "https://github.com/daytona/content/issues",
+    "trust_level": "curated",
+    "update_interval_minutes": 15,
+    "stale_after_days": 60
+  }
+]

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AIGC Opportunity Radar — Tasks</title>
+    <link>https://www.aigccreative.com/tasks/</link>
+    <description>Curated public bounty and creator task opportunities.</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 28 Aug 2026 08:18:35 GMT</lastBuildDate>
+    <item>
+      <title>Add `is_extended_promotional ` column to components (from data source)</title>
+      <link>https://github.com/tscircuit/jlcsearch/issues/92</link>
+      <guid isPermaLink="true">https://github.com/tscircuit/jlcsearch/issues/92</guid>
+      <pubDate>Fri, 28 Aug 2026 08:18:35 GMT</pubDate>
+      <category>development</category>
+      <description>Some parts are &quot;extended promotional&quot; which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75 Reward: $75. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>Refactor lens profile handling</title>
+      <link>https://github.com/gyroflow/gyroflow/issues/742</link>
+      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/742</guid>
+      <pubDate>Thu, 27 Aug 2026 10:41:07 GMT</pubDate>
+      <category>development, video</category>
+      <description>[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>BOUNTY: integrate AWS Comprehend as a utility to redact data</title>
+      <link>https://github.com/arakoodev/EdgeChains/issues/290</link>
+      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/290</guid>
+      <pubDate>Thu, 27 Aug 2026 10:26:43 GMT</pubDate>
+      <category>development, ai-automation</category>
+      <description>this bounty is for the javascript sdk only - https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains links: https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/ https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/ this b… Reward: $50. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>Omni and Claude Engineers inside Daytona</title>
+      <link>https://github.com/daytona/content/issues/36</link>
+      <guid isPermaLink="true">https://github.com/daytona/content/issues/36</guid>
+      <pubDate>Thu, 27 Aug 2026 04:30:18 GMT</pubDate>
+      <category>writing, ai-automation</category>
+      <description>Content Type Article Article Description Write a how-to article to show step by step how dev can run Omni engineer inside Daytona and use it. Create devcontainer.json file and contribute it to the existing repos: https://github.com/Doriandarko/omni-engineer https://github.com/Doriandarko/claude-engineer For this to… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>Optical only stabilization</title>
+      <link>https://github.com/gyroflow/gyroflow/issues/45</link>
+      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/45</guid>
+      <pubDate>Tue, 25 Aug 2026 00:56:41 GMT</pubDate>
+      <category>development, video</category>
+      <description>We can try to use just the optical flow to do the stabilization, without using gyro data Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>BOUNTY: add support for qdrant vector database in javascript sdk</title>
+      <link>https://github.com/arakoodev/EdgeChains/issues/273</link>
+      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/273</guid>
+      <pubDate>Wed, 19 Aug 2026 09:27:20 GMT</pubDate>
+      <category>development, ai-automation</category>
+      <description>the javascript sdk here uses postgres/supabase as the default vector database. works well. https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/examples/src/service/HydeSearchService.ts#L64 https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/lib/src/lib/clients/PostgresClient.ts we want to add sup… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>AI Transcription Tool</title>
+      <link>https://github.com/daytona/content/issues/13</link>
+      <guid isPermaLink="true">https://github.com/daytona/content/issues/13</guid>
+      <pubDate>Sun, 16 Aug 2026 12:42:17 GMT</pubDate>
+      <category>writing, ai-automation</category>
+      <description>Content Type Guide Article Description Contribute to the repo to add more supported APIs: https://github.com/nkkko/sapat OpenAI, groq, what else? Write a long-form guide based on the repo and readme. Target Audience AI engineer References/Resources https://github.com/nkkko/sapat Examples This is a nice example, but… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>Support lensfun database</title>
+      <link>https://github.com/gyroflow/gyroflow/issues/150</link>
+      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/150</guid>
+      <pubDate>Mon, 10 Aug 2026 01:53:24 GMT</pubDate>
+      <category>development, video</category>
+      <description>https://lensfun.github.io/ Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>BOUNTY: add support for Google Palm2 API in javascript/typescript</title>
+      <link>https://github.com/arakoodev/EdgeChains/issues/279</link>
+      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/279</guid>
+      <pubDate>Sat, 08 Aug 2026 03:28:23 GMT</pubDate>
+      <category>development, ai-automation</category>
+      <description>Currently, the javascript SDK supports only openai (https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains/lib/src/lib/endpoints) we want you to add support for Palm2 api from google. https://developers.generativeai.google/ bounty will deemed complete when: you have the classes and typescript types added for… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
+  </channel>
+</rss>

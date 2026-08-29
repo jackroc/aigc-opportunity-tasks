@@ -1,0 +1,79 @@
+name: Sync public task data
+
+on:
+  schedule:
+    - cron: "3,18,33,48 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/sync-tasks.yml"
+      - "config/**"
+      - "data/**"
+      - "scripts/**"
+      - "tasks/**"
+  pull_request:
+    paths:
+      - ".github/workflows/sync-tasks.yml"
+      - "config/**"
+      - "data/**"
+      - "scripts/**"
+      - "tasks/**"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: sync-public-task-data
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    if: github.event_name == 'push' || github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+      - name: Run task sync tests
+        run: node --test scripts/sync-tasks.test.mjs
+      - name: Validate the published snapshot
+        run: node scripts/sync-tasks.mjs --check
+
+  sync:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+      - name: Run task sync tests
+        run: node --test scripts/sync-tasks.test.mjs
+      - name: Collect and normalize public tasks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/sync-tasks.mjs --sync
+      - name: Detect changes
+        id: changes
+        run: |
+          if git diff --quiet -- data/tasks.json data/sources.json tasks/feed.xml tasks/deadlines.ics; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Commit task changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/tasks.json data/sources.json tasks/feed.xml tasks/deadlines.ics
+          git commit -m "chore(data): sync public task directory"
+          git push origin HEAD:main

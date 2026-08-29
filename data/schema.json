@@ -1,0 +1,137 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/jackroc/aigc-opportunity-tasks/blob/main/data/schema.json",
+  "title": "AIGC opportunity task directory",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "platform_id",
+      "source_id",
+      "title",
+      "summary",
+      "categories",
+      "skills",
+      "regions",
+      "languages",
+      "reward",
+      "status",
+      "published_at",
+      "source_updated_at",
+      "expires_at",
+      "deadline",
+      "application_url",
+      "rules_url",
+      "ai_policy",
+      "ai_policy_basis",
+      "trust",
+      "competition",
+      "source_repo",
+      "source_number"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+      },
+      "platform_id": { "type": "string", "minLength": 1 },
+      "source_id": { "type": "string", "minLength": 1 },
+      "title": { "type": "string", "minLength": 1 },
+      "summary": { "type": "string", "minLength": 1 },
+      "categories": {
+        "type": "array",
+        "minItems": 1,
+        "uniqueItems": true,
+        "items": {
+          "enum": [
+            "development",
+            "ai-automation",
+            "design",
+            "video",
+            "image",
+            "audio",
+            "writing",
+            "translation",
+            "data",
+            "research",
+            "testing",
+            "ai-evaluation",
+            "other"
+          ]
+        }
+      },
+      "skills": {
+        "type": "array",
+        "uniqueItems": true,
+        "items": { "type": "string", "minLength": 1 }
+      },
+      "regions": {
+        "type": "array",
+        "minItems": 1,
+        "uniqueItems": true,
+        "items": { "type": "string", "minLength": 1 }
+      },
+      "languages": {
+        "type": "array",
+        "minItems": 1,
+        "uniqueItems": true,
+        "items": { "type": "string", "minLength": 1 }
+      },
+      "reward": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["amount_min", "amount_max", "currency", "unit", "display", "confirmed"],
+        "properties": {
+          "amount_min": { "type": ["number", "null"] },
+          "amount_max": { "type": ["number", "null"] },
+          "currency": { "type": ["string", "null"] },
+          "unit": { "enum": ["fixed", "hour", "task", "unknown"] },
+          "display": { "type": "string", "minLength": 1 },
+          "confirmed": { "type": "boolean" }
+        }
+      },
+      "status": { "enum": ["open", "paused"] },
+      "published_at": { "type": "string", "format": "date-time" },
+      "source_updated_at": { "type": "string", "format": "date-time" },
+      "expires_at": { "type": "string", "format": "date-time" },
+      "deadline": { "type": ["string", "null"], "format": "date-time" },
+      "application_url": { "type": "string", "format": "uri", "pattern": "^https://" },
+      "rules_url": { "type": "string", "format": "uri", "pattern": "^https://" },
+      "ai_policy": { "enum": ["allowed", "limited", "human-only", "unknown"] },
+      "ai_policy_basis": { "type": "string", "minLength": 1 },
+      "trust": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["level", "signals", "warnings"],
+        "properties": {
+          "level": { "enum": ["official", "curated", "community", "unverified"] },
+          "signals": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": { "type": "string", "minLength": 1 }
+          },
+          "warnings": {
+            "type": "array",
+            "uniqueItems": true,
+            "items": { "type": "string", "minLength": 1 }
+          }
+        }
+      },
+      "competition": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["comment_count", "assignee_count", "level"],
+        "properties": {
+          "comment_count": { "type": "integer" },
+          "assignee_count": { "type": "integer" },
+          "level": { "enum": ["low", "medium", "high", "unknown"] }
+        }
+      },
+      "source_repo": { "type": "string", "minLength": 1 },
+      "source_number": { "type": "integer" }
+    }
+  }
+}
