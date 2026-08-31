@@ -1,5 +1,58 @@
 [
   {
+    "id": "github-tscircuit-jlcsearch-92",
+    "platform_id": "github-bounties",
+    "source_id": "github-tscircuit-bounties",
+    "title": "Add `is_extended_promotional ` column to components (from data source)",
+    "summary": "Some parts are \"extended promotional\" which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75",
+    "categories": [
+      "development"
+    ],
+    "skills": [],
+    "regions": [
+      "global"
+    ],
+    "languages": [
+      "en"
+    ],
+    "reward": {
+      "amount_min": 75,
+      "amount_max": 75,
+      "currency": "USD",
+      "unit": "fixed",
+      "display": "$75",
+      "confirmed": false
+    },
+    "status": "open",
+    "published_at": "2025-10-07T18:30:54.000Z",
+    "source_updated_at": "2026-08-31T20:15:35.000Z",
+    "expires_at": "2026-10-15T20:15:35.000Z",
+    "deadline": null,
+    "application_url": "https://github.com/tscircuit/jlcsearch/issues/92",
+    "rules_url": "https://github.com/tscircuit/jlcsearch/issues/92",
+    "ai_policy": "unknown",
+    "ai_policy_basis": "check-task-rules",
+    "trust": {
+      "level": "curated",
+      "signals": [
+        "public-source",
+        "curated-source",
+        "open-github-issue"
+      ],
+      "warnings": [
+        "confirm-reward-before-work",
+        "high-visible-competition"
+      ]
+    },
+    "competition": {
+      "comment_count": 133,
+      "assignee_count": 0,
+      "level": "high"
+    },
+    "source_repo": "tscircuit/jlcsearch",
+    "source_number": 92
+  },
+  {
     "id": "github-gyroflow-gyroflow-150",
     "platform_id": "github-bounties",
     "source_id": "github-gyroflow-bounties",
@@ -169,59 +222,6 @@
     },
     "source_repo": "gyroflow/gyroflow",
     "source_number": 45
-  },
-  {
-    "id": "github-tscircuit-jlcsearch-92",
-    "platform_id": "github-bounties",
-    "source_id": "github-tscircuit-bounties",
-    "title": "Add `is_extended_promotional ` column to components (from data source)",
-    "summary": "Some parts are \"extended promotional\" which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75",
-    "categories": [
-      "development"
-    ],
-    "skills": [],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": 75,
-      "amount_max": 75,
-      "currency": "USD",
-      "unit": "fixed",
-      "display": "$75",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2025-10-07T18:30:54.000Z",
-    "source_updated_at": "2026-08-30T14:39:52.000Z",
-    "expires_at": "2026-10-14T14:39:52.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/tscircuit/jlcsearch/issues/92",
-    "rules_url": "https://github.com/tscircuit/jlcsearch/issues/92",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 134,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "tscircuit/jlcsearch",
-    "source_number": 92
   },
   {
     "id": "github-arakoodev-edgechains-290",
