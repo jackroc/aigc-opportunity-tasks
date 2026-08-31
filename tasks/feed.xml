@@ -5,7 +5,31 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 30 Aug 2026 14:39:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:04:00 GMT</lastBuildDate>
+    <item>
+      <title>Support lensfun database</title>
+      <link>https://github.com/gyroflow/gyroflow/issues/150</link>
+      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/150</guid>
+      <pubDate>Mon, 31 Aug 2026 01:04:00 GMT</pubDate>
+      <category>development, video</category>
+      <description>https://lensfun.github.io/ Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>Refactor lens profile handling</title>
+      <link>https://github.com/gyroflow/gyroflow/issues/742</link>
+      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/742</guid>
+      <pubDate>Mon, 31 Aug 2026 01:03:01 GMT</pubDate>
+      <category>development, video</category>
+      <description>[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>Optical only stabilization</title>
+      <link>https://github.com/gyroflow/gyroflow/issues/45</link>
+      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/45</guid>
+      <pubDate>Mon, 31 Aug 2026 01:03:00 GMT</pubDate>
+      <category>development, video</category>
+      <description>We can try to use just the optical flow to do the stabilization, without using gyro data Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
     <item>
       <title>Add `is_extended_promotional ` column to components (from data source)</title>
       <link>https://github.com/tscircuit/jlcsearch/issues/92</link>
@@ -13,14 +37,6 @@
       <pubDate>Sun, 30 Aug 2026 14:39:52 GMT</pubDate>
       <category>development</category>
       <description>Some parts are &quot;extended promotional&quot; which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75 Reward: $75. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>Refactor lens profile handling</title>
-      <link>https://github.com/gyroflow/gyroflow/issues/742</link>
-      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/742</guid>
-      <pubDate>Thu, 27 Aug 2026 10:41:07 GMT</pubDate>
-      <category>development, video</category>
-      <description>[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also… Reward: Amount not stated. AI policy: unknown.</description>
     </item>
     <item>
       <title>BOUNTY: integrate AWS Comprehend as a utility to redact data</title>
@@ -39,14 +55,6 @@
       <description>Content Type Article Article Description Write a how-to article to show step by step how dev can run Omni engineer inside Daytona and use it. Create devcontainer.json file and contribute it to the existing repos: https://github.com/Doriandarko/omni-engineer https://github.com/Doriandarko/claude-engineer For this to… Reward: Amount not stated. AI policy: unknown.</description>
     </item>
     <item>
-      <title>Optical only stabilization</title>
-      <link>https://github.com/gyroflow/gyroflow/issues/45</link>
-      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/45</guid>
-      <pubDate>Tue, 25 Aug 2026 00:56:41 GMT</pubDate>
-      <category>development, video</category>
-      <description>We can try to use just the optical flow to do the stabilization, without using gyro data Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
-    <item>
       <title>BOUNTY: add support for qdrant vector database in javascript sdk</title>
       <link>https://github.com/arakoodev/EdgeChains/issues/273</link>
       <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/273</guid>
@@ -61,14 +69,6 @@
       <pubDate>Sun, 16 Aug 2026 12:42:17 GMT</pubDate>
       <category>writing, ai-automation</category>
       <description>Content Type Guide Article Description Contribute to the repo to add more supported APIs: https://github.com/nkkko/sapat OpenAI, groq, what else? Write a long-form guide based on the repo and readme. Target Audience AI engineer References/Resources https://github.com/nkkko/sapat Examples This is a nice example, but… Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>Support lensfun database</title>
-      <link>https://github.com/gyroflow/gyroflow/issues/150</link>
-      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/150</guid>
-      <pubDate>Mon, 10 Aug 2026 01:53:24 GMT</pubDate>
-      <category>development, video</category>
-      <description>https://lensfun.github.io/ Reward: Amount not stated. AI policy: unknown.</description>
     </item>
     <item>
       <title>BOUNTY: add support for Google Palm2 API in javascript/typescript</title>
