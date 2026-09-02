@@ -25,8 +25,8 @@
     },
     "status": "open",
     "published_at": "2025-10-07T18:30:54.000Z",
-    "source_updated_at": "2026-09-01T20:48:35.000Z",
-    "expires_at": "2026-10-16T20:48:35.000Z",
+    "source_updated_at": "2026-09-02T17:05:58.000Z",
+    "expires_at": "2026-10-17T17:05:58.000Z",
     "deadline": null,
     "application_url": "https://github.com/tscircuit/jlcsearch/issues/92",
     "rules_url": "https://github.com/tscircuit/jlcsearch/issues/92",
@@ -45,7 +45,7 @@
       ]
     },
     "competition": {
-      "comment_count": 137,
+      "comment_count": 139,
       "assignee_count": 0,
       "level": "high"
     },
