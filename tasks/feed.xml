@@ -5,7 +5,15 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 02 Sep 2026 17:05:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:35:23 GMT</lastBuildDate>
+    <item>
+      <title>AI Transcription Tool</title>
+      <link>https://github.com/daytona/content/issues/13</link>
+      <guid isPermaLink="true">https://github.com/daytona/content/issues/13</guid>
+      <pubDate>Sat, 05 Sep 2026 18:35:23 GMT</pubDate>
+      <category>writing, ai-automation</category>
+      <description>Content Type Guide Article Description Contribute to the repo to add more supported APIs: https://github.com/nkkko/sapat OpenAI, groq, what else? Write a long-form guide based on the repo and readme. Target Audience AI engineer References/Resources https://github.com/nkkko/sapat Examples This is a nice example, but… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
     <item>
       <title>Add `is_extended_promotional ` column to components (from data source)</title>
       <link>https://github.com/tscircuit/jlcsearch/issues/92</link>
@@ -61,14 +69,6 @@
       <pubDate>Wed, 19 Aug 2026 09:27:20 GMT</pubDate>
       <category>development, ai-automation</category>
       <description>the javascript sdk here uses postgres/supabase as the default vector database. works well. https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/examples/src/service/HydeSearchService.ts#L64 https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/lib/src/lib/clients/PostgresClient.ts we want to add sup… Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>AI Transcription Tool</title>
-      <link>https://github.com/daytona/content/issues/13</link>
-      <guid isPermaLink="true">https://github.com/daytona/content/issues/13</guid>
-      <pubDate>Sun, 16 Aug 2026 12:42:17 GMT</pubDate>
-      <category>writing, ai-automation</category>
-      <description>Content Type Guide Article Description Contribute to the repo to add more supported APIs: https://github.com/nkkko/sapat OpenAI, groq, what else? Write a long-form guide based on the repo and readme. Target Audience AI engineer References/Resources https://github.com/nkkko/sapat Examples This is a nice example, but… Reward: Amount not stated. AI policy: unknown.</description>
     </item>
     <item>
       <title>BOUNTY: add support for Google Palm2 API in javascript/typescript</title>
