@@ -29,8 +29,8 @@
     },
     "status": "open",
     "published_at": "2024-08-19T15:05:03.000Z",
-    "source_updated_at": "2026-09-06T03:59:23.000Z",
-    "expires_at": "2026-11-05T03:59:23.000Z",
+    "source_updated_at": "2026-09-06T04:44:47.000Z",
+    "expires_at": "2026-11-05T04:44:47.000Z",
     "deadline": null,
     "application_url": "https://github.com/daytona/content/issues/13",
     "rules_url": "https://github.com/daytona/content/issues/13",
@@ -50,7 +50,7 @@
       ]
     },
     "competition": {
-      "comment_count": 142,
+      "comment_count": 144,
       "assignee_count": 0,
       "level": "high"
     },
