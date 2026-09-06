@@ -5,22 +5,22 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 05 Sep 2026 23:34:08 GMT</lastBuildDate>
-    <item>
-      <title>Add `is_extended_promotional ` column to components (from data source)</title>
-      <link>https://github.com/tscircuit/jlcsearch/issues/92</link>
-      <guid isPermaLink="true">https://github.com/tscircuit/jlcsearch/issues/92</guid>
-      <pubDate>Sat, 05 Sep 2026 23:34:08 GMT</pubDate>
-      <category>development</category>
-      <description>Some parts are &quot;extended promotional&quot; which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75 Reward: $75. AI policy: unknown.</description>
-    </item>
+    <lastBuildDate>Sun, 06 Sep 2026 03:59:23 GMT</lastBuildDate>
     <item>
       <title>AI Transcription Tool</title>
       <link>https://github.com/daytona/content/issues/13</link>
       <guid isPermaLink="true">https://github.com/daytona/content/issues/13</guid>
-      <pubDate>Sat, 05 Sep 2026 18:35:23 GMT</pubDate>
+      <pubDate>Sun, 06 Sep 2026 03:59:23 GMT</pubDate>
       <category>writing, ai-automation</category>
       <description>Content Type Guide Article Description Contribute to the repo to add more supported APIs: https://github.com/nkkko/sapat OpenAI, groq, what else? Write a long-form guide based on the repo and readme. Target Audience AI engineer References/Resources https://github.com/nkkko/sapat Examples This is a nice example, but… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>Add `is_extended_promotional ` column to components (from data source)</title>
+      <link>https://github.com/tscircuit/jlcsearch/issues/92</link>
+      <guid isPermaLink="true">https://github.com/tscircuit/jlcsearch/issues/92</guid>
+      <pubDate>Sun, 06 Sep 2026 03:39:46 GMT</pubDate>
+      <category>development</category>
+      <description>Some parts are &quot;extended promotional&quot; which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75 Reward: $75. AI policy: unknown.</description>
     </item>
     <item>
       <title>Support lensfun database</title>
