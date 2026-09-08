@@ -1,5 +1,62 @@
 [
   {
+    "id": "github-arakoodev-edgechains-290",
+    "platform_id": "github-bounties",
+    "source_id": "github-edgechains-bounties",
+    "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
+    "summary": "this bounty is for the javascript sdk only - https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains links: https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/ https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/ this b…",
+    "categories": [
+      "development",
+      "ai-automation"
+    ],
+    "skills": [
+      "JavaScript",
+      "AWS"
+    ],
+    "regions": [
+      "global"
+    ],
+    "languages": [
+      "en"
+    ],
+    "reward": {
+      "amount_min": 50,
+      "amount_max": 50,
+      "currency": "USD",
+      "unit": "fixed",
+      "display": "$50",
+      "confirmed": false
+    },
+    "status": "open",
+    "published_at": "2023-12-03T09:33:28.000Z",
+    "source_updated_at": "2026-09-08T13:33:25.000Z",
+    "expires_at": "2026-11-07T13:33:25.000Z",
+    "deadline": null,
+    "application_url": "https://github.com/arakoodev/EdgeChains/issues/290",
+    "rules_url": "https://github.com/arakoodev/EdgeChains/issues/290",
+    "ai_policy": "unknown",
+    "ai_policy_basis": "check-task-rules",
+    "trust": {
+      "level": "curated",
+      "signals": [
+        "public-source",
+        "curated-source",
+        "open-github-issue"
+      ],
+      "warnings": [
+        "confirm-reward-before-work",
+        "high-visible-competition"
+      ]
+    },
+    "competition": {
+      "comment_count": 69,
+      "assignee_count": 0,
+      "level": "high"
+    },
+    "source_repo": "arakoodev/EdgeChains",
+    "source_number": 290
+  },
+  {
     "id": "github-gyroflow-gyroflow-742",
     "platform_id": "github-bounties",
     "source_id": "github-gyroflow-bounties",
@@ -28,8 +85,8 @@
     },
     "status": "open",
     "published_at": "2023-10-12T13:49:04.000Z",
-    "source_updated_at": "2026-09-08T08:39:09.000Z",
-    "expires_at": "2026-11-07T08:39:09.000Z",
+    "source_updated_at": "2026-09-08T13:03:06.000Z",
+    "expires_at": "2026-11-07T13:03:06.000Z",
     "deadline": null,
     "application_url": "https://github.com/gyroflow/gyroflow/issues/742",
     "rules_url": "https://github.com/gyroflow/gyroflow/issues/742",
@@ -49,7 +106,7 @@
       ]
     },
     "competition": {
-      "comment_count": 54,
+      "comment_count": 55,
       "assignee_count": 0,
       "level": "high"
     },
@@ -85,8 +142,8 @@
     },
     "status": "open",
     "published_at": "2022-02-03T23:15:53.000Z",
-    "source_updated_at": "2026-09-08T07:21:48.000Z",
-    "expires_at": "2026-11-07T07:21:48.000Z",
+    "source_updated_at": "2026-09-08T12:58:30.000Z",
+    "expires_at": "2026-11-07T12:58:30.000Z",
     "deadline": null,
     "application_url": "https://github.com/gyroflow/gyroflow/issues/45",
     "rules_url": "https://github.com/gyroflow/gyroflow/issues/45",
@@ -106,7 +163,7 @@
       ]
     },
     "competition": {
-      "comment_count": 35,
+      "comment_count": 36,
       "assignee_count": 0,
       "level": "high"
     },
@@ -169,63 +226,6 @@
     },
     "source_repo": "daytona/content",
     "source_number": 36
-  },
-  {
-    "id": "github-arakoodev-edgechains-290",
-    "platform_id": "github-bounties",
-    "source_id": "github-edgechains-bounties",
-    "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
-    "summary": "this bounty is for the javascript sdk only - https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains links: https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/ https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/ this b…",
-    "categories": [
-      "development",
-      "ai-automation"
-    ],
-    "skills": [
-      "JavaScript",
-      "AWS"
-    ],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": 50,
-      "amount_max": 50,
-      "currency": "USD",
-      "unit": "fixed",
-      "display": "$50",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2023-12-03T09:33:28.000Z",
-    "source_updated_at": "2026-09-08T04:41:04.000Z",
-    "expires_at": "2026-11-07T04:41:04.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/arakoodev/EdgeChains/issues/290",
-    "rules_url": "https://github.com/arakoodev/EdgeChains/issues/290",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 68,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "arakoodev/EdgeChains",
-    "source_number": 290
   },
   {
     "id": "github-daytona-content-13",
