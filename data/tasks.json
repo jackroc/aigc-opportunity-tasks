@@ -1,5 +1,58 @@
 [
   {
+    "id": "github-tscircuit-jlcsearch-92",
+    "platform_id": "github-bounties",
+    "source_id": "github-tscircuit-bounties",
+    "title": "Add `is_extended_promotional ` column to components (from data source)",
+    "summary": "Some parts are \"extended promotional\" which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75",
+    "categories": [
+      "development"
+    ],
+    "skills": [],
+    "regions": [
+      "global"
+    ],
+    "languages": [
+      "en"
+    ],
+    "reward": {
+      "amount_min": 75,
+      "amount_max": 75,
+      "currency": "USD",
+      "unit": "fixed",
+      "display": "$75",
+      "confirmed": false
+    },
+    "status": "open",
+    "published_at": "2025-10-07T18:30:54.000Z",
+    "source_updated_at": "2026-09-08T18:59:11.000Z",
+    "expires_at": "2026-10-23T18:59:11.000Z",
+    "deadline": null,
+    "application_url": "https://github.com/tscircuit/jlcsearch/issues/92",
+    "rules_url": "https://github.com/tscircuit/jlcsearch/issues/92",
+    "ai_policy": "unknown",
+    "ai_policy_basis": "check-task-rules",
+    "trust": {
+      "level": "curated",
+      "signals": [
+        "public-source",
+        "curated-source",
+        "open-github-issue"
+      ],
+      "warnings": [
+        "confirm-reward-before-work",
+        "high-visible-competition"
+      ]
+    },
+    "competition": {
+      "comment_count": 148,
+      "assignee_count": 0,
+      "level": "high"
+    },
+    "source_repo": "tscircuit/jlcsearch",
+    "source_number": 92
+  },
+  {
     "id": "github-daytona-content-36",
     "platform_id": "github-bounties",
     "source_id": "github-daytona-content-bounties",
@@ -28,8 +81,8 @@
     },
     "status": "open",
     "published_at": "2024-08-20T14:40:10.000Z",
-    "source_updated_at": "2026-09-08T17:43:01.000Z",
-    "expires_at": "2026-11-07T17:43:01.000Z",
+    "source_updated_at": "2026-09-08T18:42:46.000Z",
+    "expires_at": "2026-11-07T18:42:46.000Z",
     "deadline": null,
     "application_url": "https://github.com/daytona/content/issues/36",
     "rules_url": "https://github.com/daytona/content/issues/36",
@@ -49,12 +102,69 @@
       ]
     },
     "competition": {
-      "comment_count": 40,
+      "comment_count": 41,
       "assignee_count": 0,
       "level": "high"
     },
     "source_repo": "daytona/content",
     "source_number": 36
+  },
+  {
+    "id": "github-gyroflow-gyroflow-150",
+    "platform_id": "github-bounties",
+    "source_id": "github-gyroflow-bounties",
+    "title": "Support lensfun database",
+    "summary": "https://lensfun.github.io/",
+    "categories": [
+      "development",
+      "video"
+    ],
+    "skills": [
+      "Video engineering"
+    ],
+    "regions": [
+      "global"
+    ],
+    "languages": [
+      "en"
+    ],
+    "reward": {
+      "amount_min": null,
+      "amount_max": null,
+      "currency": null,
+      "unit": "unknown",
+      "display": "Amount not stated",
+      "confirmed": false
+    },
+    "status": "open",
+    "published_at": "2022-02-09T16:07:24.000Z",
+    "source_updated_at": "2026-09-08T18:14:27.000Z",
+    "expires_at": "2026-11-07T18:14:27.000Z",
+    "deadline": null,
+    "application_url": "https://github.com/gyroflow/gyroflow/issues/150",
+    "rules_url": "https://github.com/gyroflow/gyroflow/issues/150",
+    "ai_policy": "unknown",
+    "ai_policy_basis": "check-task-rules",
+    "trust": {
+      "level": "curated",
+      "signals": [
+        "public-source",
+        "curated-source",
+        "open-github-issue"
+      ],
+      "warnings": [
+        "confirm-reward-before-work",
+        "reward-not-stated",
+        "high-visible-competition"
+      ]
+    },
+    "competition": {
+      "comment_count": 35,
+      "assignee_count": 0,
+      "level": "high"
+    },
+    "source_repo": "gyroflow/gyroflow",
+    "source_number": 150
   },
   {
     "id": "github-gyroflow-gyroflow-45",
@@ -347,59 +457,6 @@
     "source_number": 273
   },
   {
-    "id": "github-tscircuit-jlcsearch-92",
-    "platform_id": "github-bounties",
-    "source_id": "github-tscircuit-bounties",
-    "title": "Add `is_extended_promotional ` column to components (from data source)",
-    "summary": "Some parts are \"extended promotional\" which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75",
-    "categories": [
-      "development"
-    ],
-    "skills": [],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": 75,
-      "amount_max": 75,
-      "currency": "USD",
-      "unit": "fixed",
-      "display": "$75",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2025-10-07T18:30:54.000Z",
-    "source_updated_at": "2026-09-08T04:08:14.000Z",
-    "expires_at": "2026-10-23T04:08:14.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/tscircuit/jlcsearch/issues/92",
-    "rules_url": "https://github.com/tscircuit/jlcsearch/issues/92",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 146,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "tscircuit/jlcsearch",
-    "source_number": 92
-  },
-  {
     "id": "github-arakoodev-edgechains-279",
     "platform_id": "github-bounties",
     "source_id": "github-edgechains-bounties",
@@ -457,62 +514,5 @@
     },
     "source_repo": "arakoodev/EdgeChains",
     "source_number": 279
-  },
-  {
-    "id": "github-gyroflow-gyroflow-150",
-    "platform_id": "github-bounties",
-    "source_id": "github-gyroflow-bounties",
-    "title": "Support lensfun database",
-    "summary": "https://lensfun.github.io/",
-    "categories": [
-      "development",
-      "video"
-    ],
-    "skills": [
-      "Video engineering"
-    ],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": null,
-      "amount_max": null,
-      "currency": null,
-      "unit": "unknown",
-      "display": "Amount not stated",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2022-02-09T16:07:24.000Z",
-    "source_updated_at": "2026-08-31T01:04:00.000Z",
-    "expires_at": "2026-10-30T01:04:00.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/gyroflow/gyroflow/issues/150",
-    "rules_url": "https://github.com/gyroflow/gyroflow/issues/150",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "reward-not-stated",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 34,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "gyroflow/gyroflow",
-    "source_number": 150
   }
 ]

@@ -5,14 +5,30 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 08 Sep 2026 17:43:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 18:59:11 GMT</lastBuildDate>
+    <item>
+      <title>Add `is_extended_promotional ` column to components (from data source)</title>
+      <link>https://github.com/tscircuit/jlcsearch/issues/92</link>
+      <guid isPermaLink="true">https://github.com/tscircuit/jlcsearch/issues/92</guid>
+      <pubDate>Tue, 08 Sep 2026 18:59:11 GMT</pubDate>
+      <category>development</category>
+      <description>Some parts are &quot;extended promotional&quot; which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75 Reward: $75. AI policy: unknown.</description>
+    </item>
     <item>
       <title>Omni and Claude Engineers inside Daytona</title>
       <link>https://github.com/daytona/content/issues/36</link>
       <guid isPermaLink="true">https://github.com/daytona/content/issues/36</guid>
-      <pubDate>Tue, 08 Sep 2026 17:43:01 GMT</pubDate>
+      <pubDate>Tue, 08 Sep 2026 18:42:46 GMT</pubDate>
       <category>writing, ai-automation</category>
       <description>Content Type Article Article Description Write a how-to article to show step by step how dev can run Omni engineer inside Daytona and use it. Create devcontainer.json file and contribute it to the existing repos: https://github.com/Doriandarko/omni-engineer https://github.com/Doriandarko/claude-engineer For this to… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>Support lensfun database</title>
+      <link>https://github.com/gyroflow/gyroflow/issues/150</link>
+      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/150</guid>
+      <pubDate>Tue, 08 Sep 2026 18:14:27 GMT</pubDate>
+      <category>development, video</category>
+      <description>https://lensfun.github.io/ Reward: Amount not stated. AI policy: unknown.</description>
     </item>
     <item>
       <title>Optical only stabilization</title>
@@ -55,28 +71,12 @@
       <description>the javascript sdk here uses postgres/supabase as the default vector database. works well. https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/examples/src/service/HydeSearchService.ts#L64 https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/lib/src/lib/clients/PostgresClient.ts we want to add sup… Reward: Amount not stated. AI policy: unknown.</description>
     </item>
     <item>
-      <title>Add `is_extended_promotional ` column to components (from data source)</title>
-      <link>https://github.com/tscircuit/jlcsearch/issues/92</link>
-      <guid isPermaLink="true">https://github.com/tscircuit/jlcsearch/issues/92</guid>
-      <pubDate>Tue, 08 Sep 2026 04:08:14 GMT</pubDate>
-      <category>development</category>
-      <description>Some parts are &quot;extended promotional&quot; which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75 Reward: $75. AI policy: unknown.</description>
-    </item>
-    <item>
       <title>BOUNTY: add support for Google Palm2 API in javascript/typescript</title>
       <link>https://github.com/arakoodev/EdgeChains/issues/279</link>
       <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/279</guid>
       <pubDate>Tue, 08 Sep 2026 03:26:57 GMT</pubDate>
       <category>development, ai-automation</category>
       <description>Currently, the javascript SDK supports only openai (https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains/lib/src/lib/endpoints) we want you to add support for Palm2 api from google. https://developers.generativeai.google/ bounty will deemed complete when: you have the classes and typescript types added for… Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>Support lensfun database</title>
-      <link>https://github.com/gyroflow/gyroflow/issues/150</link>
-      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/150</guid>
-      <pubDate>Mon, 31 Aug 2026 01:04:00 GMT</pubDate>
-      <category>development, video</category>
-      <description>https://lensfun.github.io/ Reward: Amount not stated. AI policy: unknown.</description>
     </item>
   </channel>
 </rss>
