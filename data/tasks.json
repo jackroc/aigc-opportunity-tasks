@@ -1,5 +1,119 @@
 [
   {
+    "id": "github-daytona-content-36",
+    "platform_id": "github-bounties",
+    "source_id": "github-daytona-content-bounties",
+    "title": "Omni and Claude Engineers inside Daytona",
+    "summary": "Content Type Article Article Description Write a how-to article to show step by step how dev can run Omni engineer inside Daytona and use it. Create devcontainer.json file and contribute it to the existing repos: https://github.com/Doriandarko/omni-engineer https://github.com/Doriandarko/claude-engineer For this to…",
+    "categories": [
+      "writing",
+      "ai-automation"
+    ],
+    "skills": [
+      "Technical writing"
+    ],
+    "regions": [
+      "global"
+    ],
+    "languages": [
+      "en"
+    ],
+    "reward": {
+      "amount_min": null,
+      "amount_max": null,
+      "currency": null,
+      "unit": "unknown",
+      "display": "Amount not stated",
+      "confirmed": false
+    },
+    "status": "open",
+    "published_at": "2024-08-20T14:40:10.000Z",
+    "source_updated_at": "2026-09-08T17:43:01.000Z",
+    "expires_at": "2026-11-07T17:43:01.000Z",
+    "deadline": null,
+    "application_url": "https://github.com/daytona/content/issues/36",
+    "rules_url": "https://github.com/daytona/content/issues/36",
+    "ai_policy": "unknown",
+    "ai_policy_basis": "check-task-rules",
+    "trust": {
+      "level": "curated",
+      "signals": [
+        "public-source",
+        "curated-source",
+        "open-github-issue"
+      ],
+      "warnings": [
+        "confirm-reward-before-work",
+        "reward-not-stated",
+        "high-visible-competition"
+      ]
+    },
+    "competition": {
+      "comment_count": 40,
+      "assignee_count": 0,
+      "level": "high"
+    },
+    "source_repo": "daytona/content",
+    "source_number": 36
+  },
+  {
+    "id": "github-gyroflow-gyroflow-45",
+    "platform_id": "github-bounties",
+    "source_id": "github-gyroflow-bounties",
+    "title": "Optical only stabilization",
+    "summary": "We can try to use just the optical flow to do the stabilization, without using gyro data",
+    "categories": [
+      "development",
+      "video"
+    ],
+    "skills": [
+      "Video engineering"
+    ],
+    "regions": [
+      "global"
+    ],
+    "languages": [
+      "en"
+    ],
+    "reward": {
+      "amount_min": null,
+      "amount_max": null,
+      "currency": null,
+      "unit": "unknown",
+      "display": "Amount not stated",
+      "confirmed": false
+    },
+    "status": "open",
+    "published_at": "2022-02-03T23:15:53.000Z",
+    "source_updated_at": "2026-09-08T16:56:11.000Z",
+    "expires_at": "2026-11-07T16:56:11.000Z",
+    "deadline": null,
+    "application_url": "https://github.com/gyroflow/gyroflow/issues/45",
+    "rules_url": "https://github.com/gyroflow/gyroflow/issues/45",
+    "ai_policy": "unknown",
+    "ai_policy_basis": "check-task-rules",
+    "trust": {
+      "level": "curated",
+      "signals": [
+        "public-source",
+        "curated-source",
+        "open-github-issue"
+      ],
+      "warnings": [
+        "confirm-reward-before-work",
+        "reward-not-stated",
+        "high-visible-competition"
+      ]
+    },
+    "competition": {
+      "comment_count": 37,
+      "assignee_count": 0,
+      "level": "high"
+    },
+    "source_repo": "gyroflow/gyroflow",
+    "source_number": 45
+  },
+  {
     "id": "github-arakoodev-edgechains-290",
     "platform_id": "github-bounties",
     "source_id": "github-edgechains-bounties",
@@ -112,120 +226,6 @@
     },
     "source_repo": "gyroflow/gyroflow",
     "source_number": 742
-  },
-  {
-    "id": "github-gyroflow-gyroflow-45",
-    "platform_id": "github-bounties",
-    "source_id": "github-gyroflow-bounties",
-    "title": "Optical only stabilization",
-    "summary": "We can try to use just the optical flow to do the stabilization, without using gyro data",
-    "categories": [
-      "development",
-      "video"
-    ],
-    "skills": [
-      "Video engineering"
-    ],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": null,
-      "amount_max": null,
-      "currency": null,
-      "unit": "unknown",
-      "display": "Amount not stated",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2022-02-03T23:15:53.000Z",
-    "source_updated_at": "2026-09-08T12:58:30.000Z",
-    "expires_at": "2026-11-07T12:58:30.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/gyroflow/gyroflow/issues/45",
-    "rules_url": "https://github.com/gyroflow/gyroflow/issues/45",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "reward-not-stated",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 36,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "gyroflow/gyroflow",
-    "source_number": 45
-  },
-  {
-    "id": "github-daytona-content-36",
-    "platform_id": "github-bounties",
-    "source_id": "github-daytona-content-bounties",
-    "title": "Omni and Claude Engineers inside Daytona",
-    "summary": "Content Type Article Article Description Write a how-to article to show step by step how dev can run Omni engineer inside Daytona and use it. Create devcontainer.json file and contribute it to the existing repos: https://github.com/Doriandarko/omni-engineer https://github.com/Doriandarko/claude-engineer For this to…",
-    "categories": [
-      "writing",
-      "ai-automation"
-    ],
-    "skills": [
-      "Technical writing"
-    ],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": null,
-      "amount_max": null,
-      "currency": null,
-      "unit": "unknown",
-      "display": "Amount not stated",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2024-08-20T14:40:10.000Z",
-    "source_updated_at": "2026-09-08T04:43:10.000Z",
-    "expires_at": "2026-11-07T04:43:10.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/daytona/content/issues/36",
-    "rules_url": "https://github.com/daytona/content/issues/36",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "reward-not-stated",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 39,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "daytona/content",
-    "source_number": 36
   },
   {
     "id": "github-daytona-content-13",

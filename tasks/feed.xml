@@ -5,7 +5,23 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 08 Sep 2026 13:33:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:43:01 GMT</lastBuildDate>
+    <item>
+      <title>Omni and Claude Engineers inside Daytona</title>
+      <link>https://github.com/daytona/content/issues/36</link>
+      <guid isPermaLink="true">https://github.com/daytona/content/issues/36</guid>
+      <pubDate>Tue, 08 Sep 2026 17:43:01 GMT</pubDate>
+      <category>writing, ai-automation</category>
+      <description>Content Type Article Article Description Write a how-to article to show step by step how dev can run Omni engineer inside Daytona and use it. Create devcontainer.json file and contribute it to the existing repos: https://github.com/Doriandarko/omni-engineer https://github.com/Doriandarko/claude-engineer For this to… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>Optical only stabilization</title>
+      <link>https://github.com/gyroflow/gyroflow/issues/45</link>
+      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/45</guid>
+      <pubDate>Tue, 08 Sep 2026 16:56:11 GMT</pubDate>
+      <category>development, video</category>
+      <description>We can try to use just the optical flow to do the stabilization, without using gyro data Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
     <item>
       <title>BOUNTY: integrate AWS Comprehend as a utility to redact data</title>
       <link>https://github.com/arakoodev/EdgeChains/issues/290</link>
@@ -21,22 +37,6 @@
       <pubDate>Tue, 08 Sep 2026 13:03:06 GMT</pubDate>
       <category>development, video</category>
       <description>[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also… Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>Optical only stabilization</title>
-      <link>https://github.com/gyroflow/gyroflow/issues/45</link>
-      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/45</guid>
-      <pubDate>Tue, 08 Sep 2026 12:58:30 GMT</pubDate>
-      <category>development, video</category>
-      <description>We can try to use just the optical flow to do the stabilization, without using gyro data Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>Omni and Claude Engineers inside Daytona</title>
-      <link>https://github.com/daytona/content/issues/36</link>
-      <guid isPermaLink="true">https://github.com/daytona/content/issues/36</guid>
-      <pubDate>Tue, 08 Sep 2026 04:43:10 GMT</pubDate>
-      <category>writing, ai-automation</category>
-      <description>Content Type Article Article Description Write a how-to article to show step by step how dev can run Omni engineer inside Daytona and use it. Create devcontainer.json file and contribute it to the existing repos: https://github.com/Doriandarko/omni-engineer https://github.com/Doriandarko/claude-engineer For this to… Reward: Amount not stated. AI policy: unknown.</description>
     </item>
     <item>
       <title>AI Transcription Tool</title>
