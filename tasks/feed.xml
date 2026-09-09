@@ -5,7 +5,15 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 08 Sep 2026 18:59:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 03:24:06 GMT</lastBuildDate>
+    <item>
+      <title>Refactor lens profile handling</title>
+      <link>https://github.com/gyroflow/gyroflow/issues/742</link>
+      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/742</guid>
+      <pubDate>Wed, 09 Sep 2026 03:24:06 GMT</pubDate>
+      <category>development, video</category>
+      <description>[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
     <item>
       <title>Add `is_extended_promotional ` column to components (from data source)</title>
       <link>https://github.com/tscircuit/jlcsearch/issues/92</link>
@@ -45,14 +53,6 @@
       <pubDate>Tue, 08 Sep 2026 13:33:25 GMT</pubDate>
       <category>development, ai-automation</category>
       <description>this bounty is for the javascript sdk only - https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains links: https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/ https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/ this b… Reward: $50. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>Refactor lens profile handling</title>
-      <link>https://github.com/gyroflow/gyroflow/issues/742</link>
-      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/742</guid>
-      <pubDate>Tue, 08 Sep 2026 13:03:06 GMT</pubDate>
-      <category>development, video</category>
-      <description>[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also… Reward: Amount not stated. AI policy: unknown.</description>
     </item>
     <item>
       <title>AI Transcription Tool</title>
