@@ -5,7 +5,15 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2026 14:57:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 17:16:26 GMT</lastBuildDate>
+    <item>
+      <title>Add `is_extended_promotional ` column to components (from data source)</title>
+      <link>https://github.com/tscircuit/jlcsearch/issues/92</link>
+      <guid isPermaLink="true">https://github.com/tscircuit/jlcsearch/issues/92</guid>
+      <pubDate>Wed, 09 Sep 2026 17:16:26 GMT</pubDate>
+      <category>development</category>
+      <description>Some parts are &quot;extended promotional&quot; which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75 Reward: $75. AI policy: unknown.</description>
+    </item>
     <item>
       <title>BOUNTY: add support for qdrant vector database in javascript sdk</title>
       <link>https://github.com/arakoodev/EdgeChains/issues/273</link>
@@ -29,14 +37,6 @@
       <pubDate>Wed, 09 Sep 2026 07:54:29 GMT</pubDate>
       <category>writing, ai-automation</category>
       <description>Content Type Article Article Description Write a how-to article to show step by step how dev can run Omni engineer inside Daytona and use it. Create devcontainer.json file and contribute it to the existing repos: https://github.com/Doriandarko/omni-engineer https://github.com/Doriandarko/claude-engineer For this to… Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>Add `is_extended_promotional ` column to components (from data source)</title>
-      <link>https://github.com/tscircuit/jlcsearch/issues/92</link>
-      <guid isPermaLink="true">https://github.com/tscircuit/jlcsearch/issues/92</guid>
-      <pubDate>Tue, 08 Sep 2026 18:59:11 GMT</pubDate>
-      <category>development</category>
-      <description>Some parts are &quot;extended promotional&quot; which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75 Reward: $75. AI policy: unknown.</description>
     </item>
     <item>
       <title>Support lensfun database</title>
