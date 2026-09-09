@@ -5,7 +5,15 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:02:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:57:54 GMT</lastBuildDate>
+    <item>
+      <title>BOUNTY: add support for qdrant vector database in javascript sdk</title>
+      <link>https://github.com/arakoodev/EdgeChains/issues/273</link>
+      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/273</guid>
+      <pubDate>Wed, 09 Sep 2026 14:57:54 GMT</pubDate>
+      <category>development, ai-automation</category>
+      <description>the javascript sdk here uses postgres/supabase as the default vector database. works well. https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/examples/src/service/HydeSearchService.ts#L64 https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/lib/src/lib/clients/PostgresClient.ts we want to add sup… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
     <item>
       <title>Refactor lens profile handling</title>
       <link>https://github.com/gyroflow/gyroflow/issues/742</link>
@@ -61,14 +69,6 @@
       <pubDate>Tue, 08 Sep 2026 04:28:11 GMT</pubDate>
       <category>writing, ai-automation</category>
       <description>Content Type Guide Article Description Contribute to the repo to add more supported APIs: https://github.com/nkkko/sapat OpenAI, groq, what else? Write a long-form guide based on the repo and readme. Target Audience AI engineer References/Resources https://github.com/nkkko/sapat Examples This is a nice example, but… Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>BOUNTY: add support for qdrant vector database in javascript sdk</title>
-      <link>https://github.com/arakoodev/EdgeChains/issues/273</link>
-      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/273</guid>
-      <pubDate>Tue, 08 Sep 2026 04:12:26 GMT</pubDate>
-      <category>development, ai-automation</category>
-      <description>the javascript sdk here uses postgres/supabase as the default vector database. works well. https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/examples/src/service/HydeSearchService.ts#L64 https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/lib/src/lib/clients/PostgresClient.ts we want to add sup… Reward: Amount not stated. AI policy: unknown.</description>
     </item>
     <item>
       <title>BOUNTY: add support for Google Palm2 API in javascript/typescript</title>
