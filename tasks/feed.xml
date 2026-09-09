@@ -5,14 +5,22 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2026 03:24:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:02:32 GMT</lastBuildDate>
     <item>
       <title>Refactor lens profile handling</title>
       <link>https://github.com/gyroflow/gyroflow/issues/742</link>
       <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/742</guid>
-      <pubDate>Wed, 09 Sep 2026 03:24:06 GMT</pubDate>
+      <pubDate>Wed, 09 Sep 2026 10:02:32 GMT</pubDate>
       <category>development, video</category>
       <description>[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>Omni and Claude Engineers inside Daytona</title>
+      <link>https://github.com/daytona/content/issues/36</link>
+      <guid isPermaLink="true">https://github.com/daytona/content/issues/36</guid>
+      <pubDate>Wed, 09 Sep 2026 07:54:29 GMT</pubDate>
+      <category>writing, ai-automation</category>
+      <description>Content Type Article Article Description Write a how-to article to show step by step how dev can run Omni engineer inside Daytona and use it. Create devcontainer.json file and contribute it to the existing repos: https://github.com/Doriandarko/omni-engineer https://github.com/Doriandarko/claude-engineer For this to… Reward: Amount not stated. AI policy: unknown.</description>
     </item>
     <item>
       <title>Add `is_extended_promotional ` column to components (from data source)</title>
@@ -21,14 +29,6 @@
       <pubDate>Tue, 08 Sep 2026 18:59:11 GMT</pubDate>
       <category>development</category>
       <description>Some parts are &quot;extended promotional&quot; which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75 Reward: $75. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>Omni and Claude Engineers inside Daytona</title>
-      <link>https://github.com/daytona/content/issues/36</link>
-      <guid isPermaLink="true">https://github.com/daytona/content/issues/36</guid>
-      <pubDate>Tue, 08 Sep 2026 18:42:46 GMT</pubDate>
-      <category>writing, ai-automation</category>
-      <description>Content Type Article Article Description Write a how-to article to show step by step how dev can run Omni engineer inside Daytona and use it. Create devcontainer.json file and contribute it to the existing repos: https://github.com/Doriandarko/omni-engineer https://github.com/Doriandarko/claude-engineer For this to… Reward: Amount not stated. AI policy: unknown.</description>
     </item>
     <item>
       <title>Support lensfun database</title>
