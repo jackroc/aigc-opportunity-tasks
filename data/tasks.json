@@ -1,5 +1,62 @@
 [
   {
+    "id": "github-gyroflow-gyroflow-742",
+    "platform_id": "github-bounties",
+    "source_id": "github-gyroflow-bounties",
+    "title": "Refactor lens profile handling",
+    "summary": "[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also…",
+    "categories": [
+      "development",
+      "video"
+    ],
+    "skills": [
+      "Video engineering"
+    ],
+    "regions": [
+      "global"
+    ],
+    "languages": [
+      "en"
+    ],
+    "reward": {
+      "amount_min": null,
+      "amount_max": null,
+      "currency": null,
+      "unit": "unknown",
+      "display": "Amount not stated",
+      "confirmed": false
+    },
+    "status": "open",
+    "published_at": "2023-10-12T13:49:04.000Z",
+    "source_updated_at": "2026-09-11T09:11:19.000Z",
+    "expires_at": "2026-11-10T09:11:19.000Z",
+    "deadline": null,
+    "application_url": "https://github.com/gyroflow/gyroflow/issues/742",
+    "rules_url": "https://github.com/gyroflow/gyroflow/issues/742",
+    "ai_policy": "unknown",
+    "ai_policy_basis": "check-task-rules",
+    "trust": {
+      "level": "curated",
+      "signals": [
+        "public-source",
+        "curated-source",
+        "open-github-issue"
+      ],
+      "warnings": [
+        "confirm-reward-before-work",
+        "reward-not-stated",
+        "high-visible-competition"
+      ]
+    },
+    "competition": {
+      "comment_count": 63,
+      "assignee_count": 0,
+      "level": "high"
+    },
+    "source_repo": "gyroflow/gyroflow",
+    "source_number": 742
+  },
+  {
     "id": "github-tscircuit-jlcsearch-92",
     "platform_id": "github-bounties",
     "source_id": "github-tscircuit-bounties",
@@ -51,63 +108,6 @@
     },
     "source_repo": "tscircuit/jlcsearch",
     "source_number": 92
-  },
-  {
-    "id": "github-gyroflow-gyroflow-742",
-    "platform_id": "github-bounties",
-    "source_id": "github-gyroflow-bounties",
-    "title": "Refactor lens profile handling",
-    "summary": "[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also…",
-    "categories": [
-      "development",
-      "video"
-    ],
-    "skills": [
-      "Video engineering"
-    ],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": null,
-      "amount_max": null,
-      "currency": null,
-      "unit": "unknown",
-      "display": "Amount not stated",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2023-10-12T13:49:04.000Z",
-    "source_updated_at": "2026-09-09T23:15:25.000Z",
-    "expires_at": "2026-11-08T23:15:25.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/gyroflow/gyroflow/issues/742",
-    "rules_url": "https://github.com/gyroflow/gyroflow/issues/742",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "reward-not-stated",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 62,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "gyroflow/gyroflow",
-    "source_number": 742
   },
   {
     "id": "github-arakoodev-edgechains-273",
