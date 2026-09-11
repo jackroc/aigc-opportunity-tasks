@@ -5,22 +5,22 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 11 Sep 2026 09:11:19 GMT</lastBuildDate>
-    <item>
-      <title>Refactor lens profile handling</title>
-      <link>https://github.com/gyroflow/gyroflow/issues/742</link>
-      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/742</guid>
-      <pubDate>Fri, 11 Sep 2026 09:11:19 GMT</pubDate>
-      <category>development, video</category>
-      <description>[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also… Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
+    <lastBuildDate>Fri, 11 Sep 2026 12:47:16 GMT</lastBuildDate>
     <item>
       <title>Add `is_extended_promotional ` column to components (from data source)</title>
       <link>https://github.com/tscircuit/jlcsearch/issues/92</link>
       <guid isPermaLink="true">https://github.com/tscircuit/jlcsearch/issues/92</guid>
-      <pubDate>Thu, 10 Sep 2026 23:20:59 GMT</pubDate>
+      <pubDate>Fri, 11 Sep 2026 12:47:16 GMT</pubDate>
       <category>development</category>
       <description>Some parts are &quot;extended promotional&quot; which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75 Reward: $75. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>Refactor lens profile handling</title>
+      <link>https://github.com/gyroflow/gyroflow/issues/742</link>
+      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/742</guid>
+      <pubDate>Fri, 11 Sep 2026 12:27:08 GMT</pubDate>
+      <category>development, video</category>
+      <description>[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also… Reward: Amount not stated. AI policy: unknown.</description>
     </item>
     <item>
       <title>BOUNTY: add support for qdrant vector database in javascript sdk</title>
