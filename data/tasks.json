@@ -1,5 +1,66 @@
 [
   {
+    "id": "github-arakoodev-edgechains-273",
+    "platform_id": "github-bounties",
+    "source_id": "github-edgechains-bounties",
+    "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
+    "summary": "the javascript sdk here uses postgres/supabase as the default vector database. works well. https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/examples/src/service/HydeSearchService.ts#L64 https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/lib/src/lib/clients/PostgresClient.ts we want to add sup…",
+    "categories": [
+      "development",
+      "ai-automation"
+    ],
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "API integration",
+      "SQL",
+      "Technical writing"
+    ],
+    "regions": [
+      "global"
+    ],
+    "languages": [
+      "en"
+    ],
+    "reward": {
+      "amount_min": null,
+      "amount_max": null,
+      "currency": null,
+      "unit": "unknown",
+      "display": "Amount not stated",
+      "confirmed": false
+    },
+    "status": "open",
+    "published_at": "2023-11-26T19:15:36.000Z",
+    "source_updated_at": "2026-09-12T23:07:06.000Z",
+    "expires_at": "2026-11-11T23:07:06.000Z",
+    "deadline": null,
+    "application_url": "https://github.com/arakoodev/EdgeChains/issues/273",
+    "rules_url": "https://github.com/arakoodev/EdgeChains/issues/273",
+    "ai_policy": "unknown",
+    "ai_policy_basis": "check-task-rules",
+    "trust": {
+      "level": "curated",
+      "signals": [
+        "public-source",
+        "curated-source",
+        "open-github-issue"
+      ],
+      "warnings": [
+        "confirm-reward-before-work",
+        "reward-not-stated",
+        "high-visible-competition"
+      ]
+    },
+    "competition": {
+      "comment_count": 73,
+      "assignee_count": 0,
+      "level": "high"
+    },
+    "source_repo": "arakoodev/EdgeChains",
+    "source_number": 273
+  },
+  {
     "id": "github-tscircuit-jlcsearch-92",
     "platform_id": "github-bounties",
     "source_id": "github-tscircuit-bounties",
@@ -108,67 +169,6 @@
     },
     "source_repo": "gyroflow/gyroflow",
     "source_number": 742
-  },
-  {
-    "id": "github-arakoodev-edgechains-273",
-    "platform_id": "github-bounties",
-    "source_id": "github-edgechains-bounties",
-    "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
-    "summary": "the javascript sdk here uses postgres/supabase as the default vector database. works well. https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/examples/src/service/HydeSearchService.ts#L64 https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/lib/src/lib/clients/PostgresClient.ts we want to add sup…",
-    "categories": [
-      "development",
-      "ai-automation"
-    ],
-    "skills": [
-      "TypeScript",
-      "JavaScript",
-      "API integration",
-      "SQL",
-      "Technical writing"
-    ],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": null,
-      "amount_max": null,
-      "currency": null,
-      "unit": "unknown",
-      "display": "Amount not stated",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2023-11-26T19:15:36.000Z",
-    "source_updated_at": "2026-09-09T14:57:54.000Z",
-    "expires_at": "2026-11-08T14:57:54.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/arakoodev/EdgeChains/issues/273",
-    "rules_url": "https://github.com/arakoodev/EdgeChains/issues/273",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "reward-not-stated",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 71,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "arakoodev/EdgeChains",
-    "source_number": 273
   },
   {
     "id": "github-daytona-content-36",
