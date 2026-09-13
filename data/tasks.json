@@ -1,5 +1,62 @@
 [
   {
+    "id": "github-arakoodev-edgechains-290",
+    "platform_id": "github-bounties",
+    "source_id": "github-edgechains-bounties",
+    "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
+    "summary": "this bounty is for the javascript sdk only - https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains links: https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/ https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/ this b…",
+    "categories": [
+      "development",
+      "ai-automation"
+    ],
+    "skills": [
+      "JavaScript",
+      "AWS"
+    ],
+    "regions": [
+      "global"
+    ],
+    "languages": [
+      "en"
+    ],
+    "reward": {
+      "amount_min": 50,
+      "amount_max": 50,
+      "currency": "USD",
+      "unit": "fixed",
+      "display": "$50",
+      "confirmed": false
+    },
+    "status": "open",
+    "published_at": "2023-12-03T09:33:28.000Z",
+    "source_updated_at": "2026-09-13T22:15:36.000Z",
+    "expires_at": "2026-11-12T22:15:36.000Z",
+    "deadline": null,
+    "application_url": "https://github.com/arakoodev/EdgeChains/issues/290",
+    "rules_url": "https://github.com/arakoodev/EdgeChains/issues/290",
+    "ai_policy": "unknown",
+    "ai_policy_basis": "check-task-rules",
+    "trust": {
+      "level": "curated",
+      "signals": [
+        "public-source",
+        "curated-source",
+        "open-github-issue"
+      ],
+      "warnings": [
+        "confirm-reward-before-work",
+        "high-visible-competition"
+      ]
+    },
+    "competition": {
+      "comment_count": 70,
+      "assignee_count": 0,
+      "level": "high"
+    },
+    "source_repo": "arakoodev/EdgeChains",
+    "source_number": 290
+  },
+  {
     "id": "github-arakoodev-edgechains-273",
     "platform_id": "github-bounties",
     "source_id": "github-edgechains-bounties",
@@ -340,63 +397,6 @@
     },
     "source_repo": "gyroflow/gyroflow",
     "source_number": 45
-  },
-  {
-    "id": "github-arakoodev-edgechains-290",
-    "platform_id": "github-bounties",
-    "source_id": "github-edgechains-bounties",
-    "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
-    "summary": "this bounty is for the javascript sdk only - https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains links: https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/ https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/ this b…",
-    "categories": [
-      "development",
-      "ai-automation"
-    ],
-    "skills": [
-      "JavaScript",
-      "AWS"
-    ],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": 50,
-      "amount_max": 50,
-      "currency": "USD",
-      "unit": "fixed",
-      "display": "$50",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2023-12-03T09:33:28.000Z",
-    "source_updated_at": "2026-09-08T13:33:25.000Z",
-    "expires_at": "2026-11-07T13:33:25.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/arakoodev/EdgeChains/issues/290",
-    "rules_url": "https://github.com/arakoodev/EdgeChains/issues/290",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 69,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "arakoodev/EdgeChains",
-    "source_number": 290
   },
   {
     "id": "github-daytona-content-13",

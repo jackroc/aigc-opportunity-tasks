@@ -5,7 +5,15 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 12 Sep 2026 23:07:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 22:15:36 GMT</lastBuildDate>
+    <item>
+      <title>BOUNTY: integrate AWS Comprehend as a utility to redact data</title>
+      <link>https://github.com/arakoodev/EdgeChains/issues/290</link>
+      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/290</guid>
+      <pubDate>Sun, 13 Sep 2026 22:15:36 GMT</pubDate>
+      <category>development, ai-automation</category>
+      <description>this bounty is for the javascript sdk only - https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains links: https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/ https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/ this b… Reward: $50. AI policy: unknown.</description>
+    </item>
     <item>
       <title>BOUNTY: add support for qdrant vector database in javascript sdk</title>
       <link>https://github.com/arakoodev/EdgeChains/issues/273</link>
@@ -53,14 +61,6 @@
       <pubDate>Tue, 08 Sep 2026 16:56:11 GMT</pubDate>
       <category>development, video</category>
       <description>We can try to use just the optical flow to do the stabilization, without using gyro data Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>BOUNTY: integrate AWS Comprehend as a utility to redact data</title>
-      <link>https://github.com/arakoodev/EdgeChains/issues/290</link>
-      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/290</guid>
-      <pubDate>Tue, 08 Sep 2026 13:33:25 GMT</pubDate>
-      <category>development, ai-automation</category>
-      <description>this bounty is for the javascript sdk only - https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains links: https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/ https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/ this b… Reward: $50. AI policy: unknown.</description>
     </item>
     <item>
       <title>AI Transcription Tool</title>
