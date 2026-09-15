@@ -29,8 +29,8 @@
     },
     "status": "open",
     "published_at": "2023-12-03T09:33:28.000Z",
-    "source_updated_at": "2026-09-14T09:00:10.000Z",
-    "expires_at": "2026-11-13T09:00:10.000Z",
+    "source_updated_at": "2026-09-14T23:56:42.000Z",
+    "expires_at": "2026-11-13T23:56:42.000Z",
     "deadline": null,
     "application_url": "https://github.com/arakoodev/EdgeChains/issues/290",
     "rules_url": "https://github.com/arakoodev/EdgeChains/issues/290",
@@ -49,7 +49,7 @@
       ]
     },
     "competition": {
-      "comment_count": 70,
+      "comment_count": 71,
       "assignee_count": 0,
       "level": "high"
     },
