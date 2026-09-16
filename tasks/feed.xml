@@ -5,12 +5,12 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:57:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 14:02:31 GMT</lastBuildDate>
     <item>
       <title>Add `is_extended_promotional ` column to components (from data source)</title>
       <link>https://github.com/tscircuit/jlcsearch/issues/92</link>
       <guid isPermaLink="true">https://github.com/tscircuit/jlcsearch/issues/92</guid>
-      <pubDate>Tue, 15 Sep 2026 22:57:14 GMT</pubDate>
+      <pubDate>Wed, 16 Sep 2026 14:02:31 GMT</pubDate>
       <category>development</category>
       <description>Some parts are &quot;extended promotional&quot; which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75 Reward: $75. AI policy: unknown.</description>
     </item>
@@ -18,9 +18,17 @@
       <title>Optical only stabilization</title>
       <link>https://github.com/gyroflow/gyroflow/issues/45</link>
       <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/45</guid>
-      <pubDate>Tue, 15 Sep 2026 07:49:05 GMT</pubDate>
+      <pubDate>Wed, 16 Sep 2026 12:59:23 GMT</pubDate>
       <category>development, video</category>
       <description>We can try to use just the optical flow to do the stabilization, without using gyro data Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>BOUNTY: integrate AWS Comprehend as a utility to redact data</title>
+      <link>https://github.com/arakoodev/EdgeChains/issues/290</link>
+      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/290</guid>
+      <pubDate>Wed, 16 Sep 2026 12:22:15 GMT</pubDate>
+      <category>development, ai-automation</category>
+      <description>this bounty is for the javascript sdk only - https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains links: https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/ https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/ this b… Reward: $50. AI policy: unknown.</description>
     </item>
     <item>
       <title>Refactor lens profile handling</title>
@@ -29,14 +37,6 @@
       <pubDate>Tue, 15 Sep 2026 07:40:32 GMT</pubDate>
       <category>development, video</category>
       <description>[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also… Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>BOUNTY: integrate AWS Comprehend as a utility to redact data</title>
-      <link>https://github.com/arakoodev/EdgeChains/issues/290</link>
-      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/290</guid>
-      <pubDate>Mon, 14 Sep 2026 23:56:42 GMT</pubDate>
-      <category>development, ai-automation</category>
-      <description>this bounty is for the javascript sdk only - https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains links: https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/ https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/ this b… Reward: $50. AI policy: unknown.</description>
     </item>
     <item>
       <title>BOUNTY: add support for qdrant vector database in javascript sdk</title>
