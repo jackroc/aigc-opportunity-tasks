@@ -5,7 +5,15 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 21:30:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 05:05:33 GMT</lastBuildDate>
+    <item>
+      <title>BOUNTY: add support for qdrant vector database in javascript sdk</title>
+      <link>https://github.com/arakoodev/EdgeChains/issues/273</link>
+      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/273</guid>
+      <pubDate>Thu, 17 Sep 2026 05:05:33 GMT</pubDate>
+      <category>development, ai-automation</category>
+      <description>the javascript sdk here uses postgres/supabase as the default vector database. works well. https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/examples/src/service/HydeSearchService.ts#L64 https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/lib/src/lib/clients/PostgresClient.ts we want to add sup… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
     <item>
       <title>BOUNTY: integrate AWS Comprehend as a utility to redact data</title>
       <link>https://github.com/arakoodev/EdgeChains/issues/290</link>
@@ -37,14 +45,6 @@
       <pubDate>Tue, 15 Sep 2026 07:40:32 GMT</pubDate>
       <category>development, video</category>
       <description>[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also… Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>BOUNTY: add support for qdrant vector database in javascript sdk</title>
-      <link>https://github.com/arakoodev/EdgeChains/issues/273</link>
-      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/273</guid>
-      <pubDate>Sat, 12 Sep 2026 23:07:06 GMT</pubDate>
-      <category>development, ai-automation</category>
-      <description>the javascript sdk here uses postgres/supabase as the default vector database. works well. https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/examples/src/service/HydeSearchService.ts#L64 https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/lib/src/lib/clients/PostgresClient.ts we want to add sup… Reward: Amount not stated. AI policy: unknown.</description>
     </item>
     <item>
       <title>Omni and Claude Engineers inside Daytona</title>
