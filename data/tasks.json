@@ -28,8 +28,8 @@
     },
     "status": "open",
     "published_at": "2022-02-09T16:07:24.000Z",
-    "source_updated_at": "2026-09-20T03:28:41.000Z",
-    "expires_at": "2026-11-19T03:28:41.000Z",
+    "source_updated_at": "2026-09-20T10:45:24.000Z",
+    "expires_at": "2026-11-19T10:45:24.000Z",
     "deadline": null,
     "application_url": "https://github.com/gyroflow/gyroflow/issues/150",
     "rules_url": "https://github.com/gyroflow/gyroflow/issues/150",
@@ -49,12 +49,70 @@
       ]
     },
     "competition": {
-      "comment_count": 36,
+      "comment_count": 37,
       "assignee_count": 0,
       "level": "high"
     },
     "source_repo": "gyroflow/gyroflow",
     "source_number": 150
+  },
+  {
+    "id": "github-daytona-content-13",
+    "platform_id": "github-bounties",
+    "source_id": "github-daytona-content-bounties",
+    "title": "AI Transcription Tool",
+    "summary": "Content Type Guide Article Description Contribute to the repo to add more supported APIs: https://github.com/nkkko/sapat OpenAI, groq, what else? Write a long-form guide based on the repo and readme. Target Audience AI engineer References/Resources https://github.com/nkkko/sapat Examples This is a nice example, but…",
+    "categories": [
+      "writing",
+      "ai-automation"
+    ],
+    "skills": [
+      "SQL",
+      "Technical writing"
+    ],
+    "regions": [
+      "global"
+    ],
+    "languages": [
+      "en"
+    ],
+    "reward": {
+      "amount_min": null,
+      "amount_max": null,
+      "currency": null,
+      "unit": "unknown",
+      "display": "Amount not stated",
+      "confirmed": false
+    },
+    "status": "open",
+    "published_at": "2024-08-19T15:05:03.000Z",
+    "source_updated_at": "2026-09-20T10:39:00.000Z",
+    "expires_at": "2026-11-19T10:39:00.000Z",
+    "deadline": null,
+    "application_url": "https://github.com/daytona/content/issues/13",
+    "rules_url": "https://github.com/daytona/content/issues/13",
+    "ai_policy": "unknown",
+    "ai_policy_basis": "check-task-rules",
+    "trust": {
+      "level": "curated",
+      "signals": [
+        "public-source",
+        "curated-source",
+        "open-github-issue"
+      ],
+      "warnings": [
+        "confirm-reward-before-work",
+        "reward-not-stated",
+        "high-visible-competition"
+      ]
+    },
+    "competition": {
+      "comment_count": 151,
+      "assignee_count": 0,
+      "level": "high"
+    },
+    "source_repo": "daytona/content",
+    "source_number": 13
   },
   {
     "id": "github-daytona-content-36",
@@ -112,64 +170,6 @@
     },
     "source_repo": "daytona/content",
     "source_number": 36
-  },
-  {
-    "id": "github-daytona-content-13",
-    "platform_id": "github-bounties",
-    "source_id": "github-daytona-content-bounties",
-    "title": "AI Transcription Tool",
-    "summary": "Content Type Guide Article Description Contribute to the repo to add more supported APIs: https://github.com/nkkko/sapat OpenAI, groq, what else? Write a long-form guide based on the repo and readme. Target Audience AI engineer References/Resources https://github.com/nkkko/sapat Examples This is a nice example, but…",
-    "categories": [
-      "writing",
-      "ai-automation"
-    ],
-    "skills": [
-      "SQL",
-      "Technical writing"
-    ],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": null,
-      "amount_max": null,
-      "currency": null,
-      "unit": "unknown",
-      "display": "Amount not stated",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2024-08-19T15:05:03.000Z",
-    "source_updated_at": "2026-09-20T02:10:03.000Z",
-    "expires_at": "2026-11-19T02:10:03.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/daytona/content/issues/13",
-    "rules_url": "https://github.com/daytona/content/issues/13",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "reward-not-stated",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 150,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "daytona/content",
-    "source_number": 13
   },
   {
     "id": "github-tscircuit-jlcsearch-92",
