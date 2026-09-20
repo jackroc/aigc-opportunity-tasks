@@ -28,8 +28,8 @@
     },
     "status": "open",
     "published_at": "2023-10-12T13:49:04.000Z",
-    "source_updated_at": "2026-09-20T21:05:34.000Z",
-    "expires_at": "2026-11-19T21:05:34.000Z",
+    "source_updated_at": "2026-09-20T23:20:35.000Z",
+    "expires_at": "2026-11-19T23:20:35.000Z",
     "deadline": null,
     "application_url": "https://github.com/gyroflow/gyroflow/issues/742",
     "rules_url": "https://github.com/gyroflow/gyroflow/issues/742",
@@ -49,7 +49,7 @@
       ]
     },
     "competition": {
-      "comment_count": 68,
+      "comment_count": 69,
       "assignee_count": 0,
       "level": "high"
     },
