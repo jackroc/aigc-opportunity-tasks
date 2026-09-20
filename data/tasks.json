@@ -1,5 +1,177 @@
 [
   {
+    "id": "github-gyroflow-gyroflow-150",
+    "platform_id": "github-bounties",
+    "source_id": "github-gyroflow-bounties",
+    "title": "Support lensfun database",
+    "summary": "https://lensfun.github.io/",
+    "categories": [
+      "development",
+      "video"
+    ],
+    "skills": [
+      "Video engineering"
+    ],
+    "regions": [
+      "global"
+    ],
+    "languages": [
+      "en"
+    ],
+    "reward": {
+      "amount_min": null,
+      "amount_max": null,
+      "currency": null,
+      "unit": "unknown",
+      "display": "Amount not stated",
+      "confirmed": false
+    },
+    "status": "open",
+    "published_at": "2022-02-09T16:07:24.000Z",
+    "source_updated_at": "2026-09-20T03:28:41.000Z",
+    "expires_at": "2026-11-19T03:28:41.000Z",
+    "deadline": null,
+    "application_url": "https://github.com/gyroflow/gyroflow/issues/150",
+    "rules_url": "https://github.com/gyroflow/gyroflow/issues/150",
+    "ai_policy": "unknown",
+    "ai_policy_basis": "check-task-rules",
+    "trust": {
+      "level": "curated",
+      "signals": [
+        "public-source",
+        "curated-source",
+        "open-github-issue"
+      ],
+      "warnings": [
+        "confirm-reward-before-work",
+        "reward-not-stated",
+        "high-visible-competition"
+      ]
+    },
+    "competition": {
+      "comment_count": 36,
+      "assignee_count": 0,
+      "level": "high"
+    },
+    "source_repo": "gyroflow/gyroflow",
+    "source_number": 150
+  },
+  {
+    "id": "github-daytona-content-36",
+    "platform_id": "github-bounties",
+    "source_id": "github-daytona-content-bounties",
+    "title": "Omni and Claude Engineers inside Daytona",
+    "summary": "Content Type Article Article Description Write a how-to article to show step by step how dev can run Omni engineer inside Daytona and use it. Create devcontainer.json file and contribute it to the existing repos: https://github.com/Doriandarko/omni-engineer https://github.com/Doriandarko/claude-engineer For this to…",
+    "categories": [
+      "writing",
+      "ai-automation"
+    ],
+    "skills": [
+      "Technical writing"
+    ],
+    "regions": [
+      "global"
+    ],
+    "languages": [
+      "en"
+    ],
+    "reward": {
+      "amount_min": null,
+      "amount_max": null,
+      "currency": null,
+      "unit": "unknown",
+      "display": "Amount not stated",
+      "confirmed": false
+    },
+    "status": "open",
+    "published_at": "2024-08-20T14:40:10.000Z",
+    "source_updated_at": "2026-09-20T02:10:11.000Z",
+    "expires_at": "2026-11-19T02:10:11.000Z",
+    "deadline": null,
+    "application_url": "https://github.com/daytona/content/issues/36",
+    "rules_url": "https://github.com/daytona/content/issues/36",
+    "ai_policy": "unknown",
+    "ai_policy_basis": "check-task-rules",
+    "trust": {
+      "level": "curated",
+      "signals": [
+        "public-source",
+        "curated-source",
+        "open-github-issue"
+      ],
+      "warnings": [
+        "confirm-reward-before-work",
+        "reward-not-stated",
+        "high-visible-competition"
+      ]
+    },
+    "competition": {
+      "comment_count": 43,
+      "assignee_count": 0,
+      "level": "high"
+    },
+    "source_repo": "daytona/content",
+    "source_number": 36
+  },
+  {
+    "id": "github-daytona-content-13",
+    "platform_id": "github-bounties",
+    "source_id": "github-daytona-content-bounties",
+    "title": "AI Transcription Tool",
+    "summary": "Content Type Guide Article Description Contribute to the repo to add more supported APIs: https://github.com/nkkko/sapat OpenAI, groq, what else? Write a long-form guide based on the repo and readme. Target Audience AI engineer References/Resources https://github.com/nkkko/sapat Examples This is a nice example, but…",
+    "categories": [
+      "writing",
+      "ai-automation"
+    ],
+    "skills": [
+      "SQL",
+      "Technical writing"
+    ],
+    "regions": [
+      "global"
+    ],
+    "languages": [
+      "en"
+    ],
+    "reward": {
+      "amount_min": null,
+      "amount_max": null,
+      "currency": null,
+      "unit": "unknown",
+      "display": "Amount not stated",
+      "confirmed": false
+    },
+    "status": "open",
+    "published_at": "2024-08-19T15:05:03.000Z",
+    "source_updated_at": "2026-09-20T02:10:03.000Z",
+    "expires_at": "2026-11-19T02:10:03.000Z",
+    "deadline": null,
+    "application_url": "https://github.com/daytona/content/issues/13",
+    "rules_url": "https://github.com/daytona/content/issues/13",
+    "ai_policy": "unknown",
+    "ai_policy_basis": "check-task-rules",
+    "trust": {
+      "level": "curated",
+      "signals": [
+        "public-source",
+        "curated-source",
+        "open-github-issue"
+      ],
+      "warnings": [
+        "confirm-reward-before-work",
+        "reward-not-stated",
+        "high-visible-competition"
+      ]
+    },
+    "competition": {
+      "comment_count": 150,
+      "assignee_count": 0,
+      "level": "high"
+    },
+    "source_repo": "daytona/content",
+    "source_number": 13
+  },
+  {
     "id": "github-tscircuit-jlcsearch-92",
     "platform_id": "github-bounties",
     "source_id": "github-tscircuit-bounties",
@@ -283,178 +455,6 @@
     },
     "source_repo": "gyroflow/gyroflow",
     "source_number": 742
-  },
-  {
-    "id": "github-daytona-content-36",
-    "platform_id": "github-bounties",
-    "source_id": "github-daytona-content-bounties",
-    "title": "Omni and Claude Engineers inside Daytona",
-    "summary": "Content Type Article Article Description Write a how-to article to show step by step how dev can run Omni engineer inside Daytona and use it. Create devcontainer.json file and contribute it to the existing repos: https://github.com/Doriandarko/omni-engineer https://github.com/Doriandarko/claude-engineer For this to…",
-    "categories": [
-      "writing",
-      "ai-automation"
-    ],
-    "skills": [
-      "Technical writing"
-    ],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": null,
-      "amount_max": null,
-      "currency": null,
-      "unit": "unknown",
-      "display": "Amount not stated",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2024-08-20T14:40:10.000Z",
-    "source_updated_at": "2026-09-09T07:54:29.000Z",
-    "expires_at": "2026-11-08T07:54:29.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/daytona/content/issues/36",
-    "rules_url": "https://github.com/daytona/content/issues/36",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "reward-not-stated",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 42,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "daytona/content",
-    "source_number": 36
-  },
-  {
-    "id": "github-gyroflow-gyroflow-150",
-    "platform_id": "github-bounties",
-    "source_id": "github-gyroflow-bounties",
-    "title": "Support lensfun database",
-    "summary": "https://lensfun.github.io/",
-    "categories": [
-      "development",
-      "video"
-    ],
-    "skills": [
-      "Video engineering"
-    ],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": null,
-      "amount_max": null,
-      "currency": null,
-      "unit": "unknown",
-      "display": "Amount not stated",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2022-02-09T16:07:24.000Z",
-    "source_updated_at": "2026-09-08T18:14:27.000Z",
-    "expires_at": "2026-11-07T18:14:27.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/gyroflow/gyroflow/issues/150",
-    "rules_url": "https://github.com/gyroflow/gyroflow/issues/150",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "reward-not-stated",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 35,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "gyroflow/gyroflow",
-    "source_number": 150
-  },
-  {
-    "id": "github-daytona-content-13",
-    "platform_id": "github-bounties",
-    "source_id": "github-daytona-content-bounties",
-    "title": "AI Transcription Tool",
-    "summary": "Content Type Guide Article Description Contribute to the repo to add more supported APIs: https://github.com/nkkko/sapat OpenAI, groq, what else? Write a long-form guide based on the repo and readme. Target Audience AI engineer References/Resources https://github.com/nkkko/sapat Examples This is a nice example, but…",
-    "categories": [
-      "writing",
-      "ai-automation"
-    ],
-    "skills": [
-      "SQL",
-      "Technical writing"
-    ],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": null,
-      "amount_max": null,
-      "currency": null,
-      "unit": "unknown",
-      "display": "Amount not stated",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2024-08-19T15:05:03.000Z",
-    "source_updated_at": "2026-09-08T04:28:11.000Z",
-    "expires_at": "2026-11-07T04:28:11.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/daytona/content/issues/13",
-    "rules_url": "https://github.com/daytona/content/issues/13",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "reward-not-stated",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 149,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "daytona/content",
-    "source_number": 13
   },
   {
     "id": "github-arakoodev-edgechains-279",
