@@ -5,12 +5,12 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Sep 2026 23:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 23:42:21 GMT</lastBuildDate>
     <item>
       <title>Refactor lens profile handling</title>
       <link>https://github.com/gyroflow/gyroflow/issues/742</link>
       <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/742</guid>
-      <pubDate>Sun, 20 Sep 2026 23:20:35 GMT</pubDate>
+      <pubDate>Sun, 20 Sep 2026 23:42:21 GMT</pubDate>
       <category>development, video</category>
       <description>[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also… Reward: Amount not stated. AI policy: unknown.</description>
     </item>
