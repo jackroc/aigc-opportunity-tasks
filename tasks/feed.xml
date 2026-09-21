@@ -5,7 +5,15 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Sep 2026 23:42:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 02:43:26 GMT</lastBuildDate>
+    <item>
+      <title>Optical only stabilization</title>
+      <link>https://github.com/gyroflow/gyroflow/issues/45</link>
+      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/45</guid>
+      <pubDate>Mon, 21 Sep 2026 02:43:26 GMT</pubDate>
+      <category>development, video</category>
+      <description>We can try to use just the optical flow to do the stabilization, without using gyro data Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
     <item>
       <title>Refactor lens profile handling</title>
       <link>https://github.com/gyroflow/gyroflow/issues/742</link>
@@ -45,14 +53,6 @@
       <pubDate>Sat, 19 Sep 2026 23:31:05 GMT</pubDate>
       <category>development</category>
       <description>Some parts are &quot;extended promotional&quot; which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75 Reward: $75. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>Optical only stabilization</title>
-      <link>https://github.com/gyroflow/gyroflow/issues/45</link>
-      <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/45</guid>
-      <pubDate>Sat, 19 Sep 2026 18:13:45 GMT</pubDate>
-      <category>development, video</category>
-      <description>We can try to use just the optical flow to do the stabilization, without using gyro data Reward: Amount not stated. AI policy: unknown.</description>
     </item>
     <item>
       <title>BOUNTY: add support for qdrant vector database in javascript sdk</title>
