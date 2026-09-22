@@ -5,7 +5,23 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 21 Sep 2026 02:43:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:09:13 GMT</lastBuildDate>
+    <item>
+      <title>Add `is_extended_promotional ` column to components (from data source)</title>
+      <link>https://github.com/tscircuit/jlcsearch/issues/92</link>
+      <guid isPermaLink="true">https://github.com/tscircuit/jlcsearch/issues/92</guid>
+      <pubDate>Tue, 22 Sep 2026 10:09:13 GMT</pubDate>
+      <category>development</category>
+      <description>Some parts are &quot;extended promotional&quot; which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75 Reward: $75. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>BOUNTY: add support for qdrant vector database in javascript sdk</title>
+      <link>https://github.com/arakoodev/EdgeChains/issues/273</link>
+      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/273</guid>
+      <pubDate>Tue, 22 Sep 2026 09:46:04 GMT</pubDate>
+      <category>development, ai-automation</category>
+      <description>the javascript sdk here uses postgres/supabase as the default vector database. works well. https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/examples/src/service/HydeSearchService.ts#L64 https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/lib/src/lib/clients/PostgresClient.ts we want to add sup… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
     <item>
       <title>Optical only stabilization</title>
       <link>https://github.com/gyroflow/gyroflow/issues/45</link>
@@ -29,38 +45,6 @@
       <pubDate>Sun, 20 Sep 2026 10:45:24 GMT</pubDate>
       <category>development, video</category>
       <description>https://lensfun.github.io/ Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>AI Transcription Tool</title>
-      <link>https://github.com/daytona/content/issues/13</link>
-      <guid isPermaLink="true">https://github.com/daytona/content/issues/13</guid>
-      <pubDate>Sun, 20 Sep 2026 10:39:00 GMT</pubDate>
-      <category>writing, ai-automation</category>
-      <description>Content Type Guide Article Description Contribute to the repo to add more supported APIs: https://github.com/nkkko/sapat OpenAI, groq, what else? Write a long-form guide based on the repo and readme. Target Audience AI engineer References/Resources https://github.com/nkkko/sapat Examples This is a nice example, but… Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>Omni and Claude Engineers inside Daytona</title>
-      <link>https://github.com/daytona/content/issues/36</link>
-      <guid isPermaLink="true">https://github.com/daytona/content/issues/36</guid>
-      <pubDate>Sun, 20 Sep 2026 02:10:11 GMT</pubDate>
-      <category>writing, ai-automation</category>
-      <description>Content Type Article Article Description Write a how-to article to show step by step how dev can run Omni engineer inside Daytona and use it. Create devcontainer.json file and contribute it to the existing repos: https://github.com/Doriandarko/omni-engineer https://github.com/Doriandarko/claude-engineer For this to… Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>Add `is_extended_promotional ` column to components (from data source)</title>
-      <link>https://github.com/tscircuit/jlcsearch/issues/92</link>
-      <guid isPermaLink="true">https://github.com/tscircuit/jlcsearch/issues/92</guid>
-      <pubDate>Sat, 19 Sep 2026 23:31:05 GMT</pubDate>
-      <category>development</category>
-      <description>Some parts are &quot;extended promotional&quot; which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75 Reward: $75. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>BOUNTY: add support for qdrant vector database in javascript sdk</title>
-      <link>https://github.com/arakoodev/EdgeChains/issues/273</link>
-      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/273</guid>
-      <pubDate>Fri, 18 Sep 2026 09:01:46 GMT</pubDate>
-      <category>development, ai-automation</category>
-      <description>the javascript sdk here uses postgres/supabase as the default vector database. works well. https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/examples/src/service/HydeSearchService.ts#L64 https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/lib/src/lib/clients/PostgresClient.ts we want to add sup… Reward: Amount not stated. AI policy: unknown.</description>
     </item>
     <item>
       <title>BOUNTY: integrate AWS Comprehend as a utility to redact data</title>
