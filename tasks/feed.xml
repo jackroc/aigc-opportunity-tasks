@@ -5,7 +5,15 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 23 Sep 2026 10:24:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 19:59:20 GMT</lastBuildDate>
+    <item>
+      <title>BOUNTY: add support for qdrant vector database in javascript sdk</title>
+      <link>https://github.com/arakoodev/EdgeChains/issues/273</link>
+      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/273</guid>
+      <pubDate>Wed, 23 Sep 2026 19:59:20 GMT</pubDate>
+      <category>development, ai-automation</category>
+      <description>the javascript sdk here uses postgres/supabase as the default vector database. works well. https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/examples/src/service/HydeSearchService.ts#L64 https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/lib/src/lib/clients/PostgresClient.ts we want to add sup… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
     <item>
       <title>Refactor lens profile handling</title>
       <link>https://github.com/gyroflow/gyroflow/issues/742</link>
@@ -29,14 +37,6 @@
       <pubDate>Tue, 22 Sep 2026 21:04:43 GMT</pubDate>
       <category>development, video</category>
       <description>We can try to use just the optical flow to do the stabilization, without using gyro data Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>BOUNTY: add support for qdrant vector database in javascript sdk</title>
-      <link>https://github.com/arakoodev/EdgeChains/issues/273</link>
-      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/273</guid>
-      <pubDate>Tue, 22 Sep 2026 09:46:04 GMT</pubDate>
-      <category>development, ai-automation</category>
-      <description>the javascript sdk here uses postgres/supabase as the default vector database. works well. https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/examples/src/service/HydeSearchService.ts#L64 https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/lib/src/lib/clients/PostgresClient.ts we want to add sup… Reward: Amount not stated. AI policy: unknown.</description>
     </item>
     <item>
       <title>Support lensfun database</title>
