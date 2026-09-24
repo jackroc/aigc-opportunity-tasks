@@ -5,20 +5,20 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 23 Sep 2026 21:02:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 06:19:50 GMT</lastBuildDate>
     <item>
-      <title>Add `is_extended_promotional ` column to components (from data source)</title>
-      <link>https://github.com/tscircuit/jlcsearch/issues/92</link>
-      <guid isPermaLink="true">https://github.com/tscircuit/jlcsearch/issues/92</guid>
-      <pubDate>Wed, 23 Sep 2026 21:02:37 GMT</pubDate>
-      <category>development</category>
-      <description>Some parts are &quot;extended promotional&quot; which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75 Reward: $75. AI policy: unknown.</description>
+      <title>BOUNTY: integrate AWS Comprehend as a utility to redact data</title>
+      <link>https://github.com/arakoodev/EdgeChains/issues/290</link>
+      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/290</guid>
+      <pubDate>Thu, 24 Sep 2026 06:19:50 GMT</pubDate>
+      <category>development, ai-automation</category>
+      <description>this bounty is for the javascript sdk only - https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains links: https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/ https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/ this b… Reward: $50. AI policy: unknown.</description>
     </item>
     <item>
       <title>BOUNTY: add support for qdrant vector database in javascript sdk</title>
       <link>https://github.com/arakoodev/EdgeChains/issues/273</link>
       <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/273</guid>
-      <pubDate>Wed, 23 Sep 2026 19:59:20 GMT</pubDate>
+      <pubDate>Thu, 24 Sep 2026 06:19:48 GMT</pubDate>
       <category>development, ai-automation</category>
       <description>the javascript sdk here uses postgres/supabase as the default vector database. works well. https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/examples/src/service/HydeSearchService.ts#L64 https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/lib/src/lib/clients/PostgresClient.ts we want to add sup… Reward: Amount not stated. AI policy: unknown.</description>
     </item>
@@ -26,9 +26,17 @@
       <title>Refactor lens profile handling</title>
       <link>https://github.com/gyroflow/gyroflow/issues/742</link>
       <guid isPermaLink="true">https://github.com/gyroflow/gyroflow/issues/742</guid>
-      <pubDate>Wed, 23 Sep 2026 10:24:40 GMT</pubDate>
+      <pubDate>Thu, 24 Sep 2026 04:22:43 GMT</pubDate>
       <category>development, video</category>
       <description>[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>Add `is_extended_promotional ` column to components (from data source)</title>
+      <link>https://github.com/tscircuit/jlcsearch/issues/92</link>
+      <guid isPermaLink="true">https://github.com/tscircuit/jlcsearch/issues/92</guid>
+      <pubDate>Wed, 23 Sep 2026 21:02:37 GMT</pubDate>
+      <category>development</category>
+      <description>Some parts are &quot;extended promotional&quot; which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75 Reward: $75. AI policy: unknown.</description>
     </item>
     <item>
       <title>Optical only stabilization</title>
@@ -45,14 +53,6 @@
       <pubDate>Sun, 20 Sep 2026 10:45:24 GMT</pubDate>
       <category>development, video</category>
       <description>https://lensfun.github.io/ Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>BOUNTY: integrate AWS Comprehend as a utility to redact data</title>
-      <link>https://github.com/arakoodev/EdgeChains/issues/290</link>
-      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/290</guid>
-      <pubDate>Wed, 16 Sep 2026 21:30:40 GMT</pubDate>
-      <category>development, ai-automation</category>
-      <description>this bounty is for the javascript sdk only - https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains links: https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/ https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/ this b… Reward: $50. AI policy: unknown.</description>
     </item>
     <item>
       <title>BOUNTY: add support for Google Palm2 API in javascript/typescript</title>
