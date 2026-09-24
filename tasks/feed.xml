@@ -5,22 +5,30 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 24 Sep 2026 07:53:32 GMT</lastBuildDate>
-    <item>
-      <title>BOUNTY: integrate AWS Comprehend as a utility to redact data</title>
-      <link>https://github.com/arakoodev/EdgeChains/issues/290</link>
-      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/290</guid>
-      <pubDate>Thu, 24 Sep 2026 07:53:32 GMT</pubDate>
-      <category>development, ai-automation</category>
-      <description>this bounty is for the javascript sdk only - https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains links: https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/ https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/ this b… Reward: $50. AI policy: unknown.</description>
-    </item>
+    <lastBuildDate>Thu, 24 Sep 2026 19:54:36 GMT</lastBuildDate>
     <item>
       <title>BOUNTY: add support for qdrant vector database in javascript sdk</title>
       <link>https://github.com/arakoodev/EdgeChains/issues/273</link>
       <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/273</guid>
-      <pubDate>Thu, 24 Sep 2026 06:19:48 GMT</pubDate>
+      <pubDate>Thu, 24 Sep 2026 19:54:36 GMT</pubDate>
       <category>development, ai-automation</category>
       <description>the javascript sdk here uses postgres/supabase as the default vector database. works well. https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/examples/src/service/HydeSearchService.ts#L64 https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/lib/src/lib/clients/PostgresClient.ts we want to add sup… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>BOUNTY: add support for Google Palm2 API in javascript/typescript</title>
+      <link>https://github.com/arakoodev/EdgeChains/issues/279</link>
+      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/279</guid>
+      <pubDate>Thu, 24 Sep 2026 19:54:34 GMT</pubDate>
+      <category>development, ai-automation</category>
+      <description>Currently, the javascript SDK supports only openai (https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains/lib/src/lib/endpoints) we want you to add support for Palm2 api from google. https://developers.generativeai.google/ bounty will deemed complete when: you have the classes and typescript types added for… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
+    <item>
+      <title>BOUNTY: integrate AWS Comprehend as a utility to redact data</title>
+      <link>https://github.com/arakoodev/EdgeChains/issues/290</link>
+      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/290</guid>
+      <pubDate>Thu, 24 Sep 2026 19:54:32 GMT</pubDate>
+      <category>development, ai-automation</category>
+      <description>this bounty is for the javascript sdk only - https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains links: https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/ https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/ this b… Reward: $50. AI policy: unknown.</description>
     </item>
     <item>
       <title>Refactor lens profile handling</title>
@@ -53,14 +61,6 @@
       <pubDate>Sun, 20 Sep 2026 10:45:24 GMT</pubDate>
       <category>development, video</category>
       <description>https://lensfun.github.io/ Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>BOUNTY: add support for Google Palm2 API in javascript/typescript</title>
-      <link>https://github.com/arakoodev/EdgeChains/issues/279</link>
-      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/279</guid>
-      <pubDate>Tue, 08 Sep 2026 03:26:57 GMT</pubDate>
-      <category>development, ai-automation</category>
-      <description>Currently, the javascript SDK supports only openai (https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains/lib/src/lib/endpoints) we want you to add support for Palm2 api from google. https://developers.generativeai.google/ bounty will deemed complete when: you have the classes and typescript types added for… Reward: Amount not stated. AI policy: unknown.</description>
     </item>
   </channel>
 </rss>

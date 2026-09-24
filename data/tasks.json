@@ -1,62 +1,5 @@
 [
   {
-    "id": "github-arakoodev-edgechains-290",
-    "platform_id": "github-bounties",
-    "source_id": "github-edgechains-bounties",
-    "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
-    "summary": "this bounty is for the javascript sdk only - https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains links: https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/ https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/ this b…",
-    "categories": [
-      "development",
-      "ai-automation"
-    ],
-    "skills": [
-      "JavaScript",
-      "AWS"
-    ],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": 50,
-      "amount_max": 50,
-      "currency": "USD",
-      "unit": "fixed",
-      "display": "$50",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2023-12-03T09:33:28.000Z",
-    "source_updated_at": "2026-09-24T07:53:32.000Z",
-    "expires_at": "2026-11-23T07:53:32.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/arakoodev/EdgeChains/issues/290",
-    "rules_url": "https://github.com/arakoodev/EdgeChains/issues/290",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 75,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "arakoodev/EdgeChains",
-    "source_number": 290
-  },
-  {
     "id": "github-arakoodev-edgechains-273",
     "platform_id": "github-bounties",
     "source_id": "github-edgechains-bounties",
@@ -89,8 +32,8 @@
     },
     "status": "open",
     "published_at": "2023-11-26T19:15:36.000Z",
-    "source_updated_at": "2026-09-24T06:19:48.000Z",
-    "expires_at": "2026-11-23T06:19:48.000Z",
+    "source_updated_at": "2026-09-24T19:54:36.000Z",
+    "expires_at": "2026-11-23T19:54:36.000Z",
     "deadline": null,
     "application_url": "https://github.com/arakoodev/EdgeChains/issues/273",
     "rules_url": "https://github.com/arakoodev/EdgeChains/issues/273",
@@ -110,12 +53,128 @@
       ]
     },
     "competition": {
-      "comment_count": 80,
+      "comment_count": 81,
       "assignee_count": 0,
       "level": "high"
     },
     "source_repo": "arakoodev/EdgeChains",
     "source_number": 273
+  },
+  {
+    "id": "github-arakoodev-edgechains-279",
+    "platform_id": "github-bounties",
+    "source_id": "github-edgechains-bounties",
+    "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
+    "summary": "Currently, the javascript SDK supports only openai (https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains/lib/src/lib/endpoints) we want you to add support for Palm2 api from google. https://developers.generativeai.google/ bounty will deemed complete when: you have the classes and typescript types added for…",
+    "categories": [
+      "development",
+      "ai-automation"
+    ],
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "API integration"
+    ],
+    "regions": [
+      "global"
+    ],
+    "languages": [
+      "en"
+    ],
+    "reward": {
+      "amount_min": null,
+      "amount_max": null,
+      "currency": null,
+      "unit": "unknown",
+      "display": "Amount not stated",
+      "confirmed": false
+    },
+    "status": "open",
+    "published_at": "2023-11-30T10:03:48.000Z",
+    "source_updated_at": "2026-09-24T19:54:34.000Z",
+    "expires_at": "2026-11-23T19:54:34.000Z",
+    "deadline": null,
+    "application_url": "https://github.com/arakoodev/EdgeChains/issues/279",
+    "rules_url": "https://github.com/arakoodev/EdgeChains/issues/279",
+    "ai_policy": "unknown",
+    "ai_policy_basis": "check-task-rules",
+    "trust": {
+      "level": "curated",
+      "signals": [
+        "public-source",
+        "curated-source",
+        "open-github-issue"
+      ],
+      "warnings": [
+        "confirm-reward-before-work",
+        "reward-not-stated",
+        "high-visible-competition"
+      ]
+    },
+    "competition": {
+      "comment_count": 48,
+      "assignee_count": 0,
+      "level": "high"
+    },
+    "source_repo": "arakoodev/EdgeChains",
+    "source_number": 279
+  },
+  {
+    "id": "github-arakoodev-edgechains-290",
+    "platform_id": "github-bounties",
+    "source_id": "github-edgechains-bounties",
+    "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
+    "summary": "this bounty is for the javascript sdk only - https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains links: https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/ https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/ this b…",
+    "categories": [
+      "development",
+      "ai-automation"
+    ],
+    "skills": [
+      "JavaScript",
+      "AWS"
+    ],
+    "regions": [
+      "global"
+    ],
+    "languages": [
+      "en"
+    ],
+    "reward": {
+      "amount_min": 50,
+      "amount_max": 50,
+      "currency": "USD",
+      "unit": "fixed",
+      "display": "$50",
+      "confirmed": false
+    },
+    "status": "open",
+    "published_at": "2023-12-03T09:33:28.000Z",
+    "source_updated_at": "2026-09-24T19:54:32.000Z",
+    "expires_at": "2026-11-23T19:54:32.000Z",
+    "deadline": null,
+    "application_url": "https://github.com/arakoodev/EdgeChains/issues/290",
+    "rules_url": "https://github.com/arakoodev/EdgeChains/issues/290",
+    "ai_policy": "unknown",
+    "ai_policy_basis": "check-task-rules",
+    "trust": {
+      "level": "curated",
+      "signals": [
+        "public-source",
+        "curated-source",
+        "open-github-issue"
+      ],
+      "warnings": [
+        "confirm-reward-before-work",
+        "high-visible-competition"
+      ]
+    },
+    "competition": {
+      "comment_count": 76,
+      "assignee_count": 0,
+      "level": "high"
+    },
+    "source_repo": "arakoodev/EdgeChains",
+    "source_number": 290
   },
   {
     "id": "github-gyroflow-gyroflow-742",
@@ -340,64 +399,5 @@
     },
     "source_repo": "gyroflow/gyroflow",
     "source_number": 150
-  },
-  {
-    "id": "github-arakoodev-edgechains-279",
-    "platform_id": "github-bounties",
-    "source_id": "github-edgechains-bounties",
-    "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
-    "summary": "Currently, the javascript SDK supports only openai (https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains/lib/src/lib/endpoints) we want you to add support for Palm2 api from google. https://developers.generativeai.google/ bounty will deemed complete when: you have the classes and typescript types added for…",
-    "categories": [
-      "development",
-      "ai-automation"
-    ],
-    "skills": [
-      "TypeScript",
-      "JavaScript",
-      "API integration"
-    ],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": null,
-      "amount_max": null,
-      "currency": null,
-      "unit": "unknown",
-      "display": "Amount not stated",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2023-11-30T10:03:48.000Z",
-    "source_updated_at": "2026-09-08T03:26:57.000Z",
-    "expires_at": "2026-11-07T03:26:57.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/arakoodev/EdgeChains/issues/279",
-    "rules_url": "https://github.com/arakoodev/EdgeChains/issues/279",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "reward-not-stated",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 47,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "arakoodev/EdgeChains",
-    "source_number": 279
   }
 ]
