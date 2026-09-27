@@ -1,5 +1,172 @@
 [
   {
+    "id": "github-tscircuit-jlcsearch-92",
+    "platform_id": "github-bounties",
+    "source_id": "github-tscircuit-bounties",
+    "title": "Add `is_extended_promotional ` column to components (from data source)",
+    "summary": "Some parts are \"extended promotional\" which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75",
+    "categories": [
+      "development"
+    ],
+    "skills": [],
+    "regions": [
+      "global"
+    ],
+    "languages": [
+      "en"
+    ],
+    "reward": {
+      "amount_min": 75,
+      "amount_max": 75,
+      "currency": "USD",
+      "unit": "fixed",
+      "display": "$75",
+      "confirmed": false
+    },
+    "status": "open",
+    "published_at": "2025-10-07T18:30:54.000Z",
+    "source_updated_at": "2026-09-27T17:12:28.000Z",
+    "expires_at": "2026-11-11T17:12:28.000Z",
+    "deadline": null,
+    "application_url": "https://github.com/tscircuit/jlcsearch/issues/92",
+    "rules_url": "https://github.com/tscircuit/jlcsearch/issues/92",
+    "ai_policy": "unknown",
+    "ai_policy_basis": "check-task-rules",
+    "trust": {
+      "level": "curated",
+      "signals": [
+        "public-source",
+        "curated-source",
+        "open-github-issue"
+      ],
+      "warnings": [
+        "confirm-reward-before-work",
+        "high-visible-competition"
+      ]
+    },
+    "competition": {
+      "comment_count": 171,
+      "assignee_count": 0,
+      "level": "high"
+    },
+    "source_repo": "tscircuit/jlcsearch",
+    "source_number": 92
+  },
+  {
+    "id": "github-gyroflow-gyroflow-45",
+    "platform_id": "github-bounties",
+    "source_id": "github-gyroflow-bounties",
+    "title": "Optical only stabilization",
+    "summary": "We can try to use just the optical flow to do the stabilization, without using gyro data",
+    "categories": [
+      "development",
+      "video"
+    ],
+    "skills": [
+      "Video engineering"
+    ],
+    "regions": [
+      "global"
+    ],
+    "languages": [
+      "en"
+    ],
+    "reward": {
+      "amount_min": null,
+      "amount_max": null,
+      "currency": null,
+      "unit": "unknown",
+      "display": "Amount not stated",
+      "confirmed": false
+    },
+    "status": "open",
+    "published_at": "2022-02-03T23:15:53.000Z",
+    "source_updated_at": "2026-09-27T17:06:19.000Z",
+    "expires_at": "2026-11-26T17:06:19.000Z",
+    "deadline": null,
+    "application_url": "https://github.com/gyroflow/gyroflow/issues/45",
+    "rules_url": "https://github.com/gyroflow/gyroflow/issues/45",
+    "ai_policy": "unknown",
+    "ai_policy_basis": "check-task-rules",
+    "trust": {
+      "level": "curated",
+      "signals": [
+        "public-source",
+        "curated-source",
+        "open-github-issue"
+      ],
+      "warnings": [
+        "confirm-reward-before-work",
+        "reward-not-stated",
+        "high-visible-competition"
+      ]
+    },
+    "competition": {
+      "comment_count": 46,
+      "assignee_count": 0,
+      "level": "high"
+    },
+    "source_repo": "gyroflow/gyroflow",
+    "source_number": 45
+  },
+  {
+    "id": "github-gyroflow-gyroflow-742",
+    "platform_id": "github-bounties",
+    "source_id": "github-gyroflow-bounties",
+    "title": "Refactor lens profile handling",
+    "summary": "[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also…",
+    "categories": [
+      "development",
+      "video"
+    ],
+    "skills": [
+      "Video engineering"
+    ],
+    "regions": [
+      "global"
+    ],
+    "languages": [
+      "en"
+    ],
+    "reward": {
+      "amount_min": null,
+      "amount_max": null,
+      "currency": null,
+      "unit": "unknown",
+      "display": "Amount not stated",
+      "confirmed": false
+    },
+    "status": "open",
+    "published_at": "2023-10-12T13:49:04.000Z",
+    "source_updated_at": "2026-09-27T17:06:11.000Z",
+    "expires_at": "2026-11-26T17:06:11.000Z",
+    "deadline": null,
+    "application_url": "https://github.com/gyroflow/gyroflow/issues/742",
+    "rules_url": "https://github.com/gyroflow/gyroflow/issues/742",
+    "ai_policy": "unknown",
+    "ai_policy_basis": "check-task-rules",
+    "trust": {
+      "level": "curated",
+      "signals": [
+        "public-source",
+        "curated-source",
+        "open-github-issue"
+      ],
+      "warnings": [
+        "confirm-reward-before-work",
+        "reward-not-stated",
+        "high-visible-competition"
+      ]
+    },
+    "competition": {
+      "comment_count": 73,
+      "assignee_count": 0,
+      "level": "high"
+    },
+    "source_repo": "gyroflow/gyroflow",
+    "source_number": 742
+  },
+  {
     "id": "github-arakoodev-edgechains-290",
     "platform_id": "github-bounties",
     "source_id": "github-edgechains-bounties",
@@ -175,173 +342,6 @@
     },
     "source_repo": "arakoodev/EdgeChains",
     "source_number": 279
-  },
-  {
-    "id": "github-gyroflow-gyroflow-742",
-    "platform_id": "github-bounties",
-    "source_id": "github-gyroflow-bounties",
-    "title": "Refactor lens profile handling",
-    "summary": "[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also…",
-    "categories": [
-      "development",
-      "video"
-    ],
-    "skills": [
-      "Video engineering"
-    ],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": null,
-      "amount_max": null,
-      "currency": null,
-      "unit": "unknown",
-      "display": "Amount not stated",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2023-10-12T13:49:04.000Z",
-    "source_updated_at": "2026-09-24T04:22:43.000Z",
-    "expires_at": "2026-11-23T04:22:43.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/gyroflow/gyroflow/issues/742",
-    "rules_url": "https://github.com/gyroflow/gyroflow/issues/742",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "reward-not-stated",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 72,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "gyroflow/gyroflow",
-    "source_number": 742
-  },
-  {
-    "id": "github-tscircuit-jlcsearch-92",
-    "platform_id": "github-bounties",
-    "source_id": "github-tscircuit-bounties",
-    "title": "Add `is_extended_promotional ` column to components (from data source)",
-    "summary": "Some parts are \"extended promotional\" which means they act as basic for a limited time, we should have that information available in a filterable column /bounty $75",
-    "categories": [
-      "development"
-    ],
-    "skills": [],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": 75,
-      "amount_max": 75,
-      "currency": "USD",
-      "unit": "fixed",
-      "display": "$75",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2025-10-07T18:30:54.000Z",
-    "source_updated_at": "2026-09-23T21:02:37.000Z",
-    "expires_at": "2026-11-07T21:02:37.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/tscircuit/jlcsearch/issues/92",
-    "rules_url": "https://github.com/tscircuit/jlcsearch/issues/92",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 170,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "tscircuit/jlcsearch",
-    "source_number": 92
-  },
-  {
-    "id": "github-gyroflow-gyroflow-45",
-    "platform_id": "github-bounties",
-    "source_id": "github-gyroflow-bounties",
-    "title": "Optical only stabilization",
-    "summary": "We can try to use just the optical flow to do the stabilization, without using gyro data",
-    "categories": [
-      "development",
-      "video"
-    ],
-    "skills": [
-      "Video engineering"
-    ],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": null,
-      "amount_max": null,
-      "currency": null,
-      "unit": "unknown",
-      "display": "Amount not stated",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2022-02-03T23:15:53.000Z",
-    "source_updated_at": "2026-09-22T21:04:43.000Z",
-    "expires_at": "2026-11-21T21:04:43.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/gyroflow/gyroflow/issues/45",
-    "rules_url": "https://github.com/gyroflow/gyroflow/issues/45",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "reward-not-stated",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 45,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "gyroflow/gyroflow",
-    "source_number": 45
   },
   {
     "id": "github-gyroflow-gyroflow-150",
