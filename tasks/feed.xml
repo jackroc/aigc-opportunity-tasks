@@ -5,7 +5,15 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 01 Oct 2026 20:51:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:01:57 GMT</lastBuildDate>
+    <item>
+      <title>BOUNTY: add support for Google Palm2 API in javascript/typescript</title>
+      <link>https://github.com/arakoodev/EdgeChains/issues/279</link>
+      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/279</guid>
+      <pubDate>Fri, 02 Oct 2026 16:01:57 GMT</pubDate>
+      <category>development, ai-automation</category>
+      <description>Currently, the javascript SDK supports only openai (https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains/lib/src/lib/endpoints) we want you to add support for Palm2 api from google. https://developers.generativeai.google/ bounty will deemed complete when: you have the classes and typescript types added for… Reward: Amount not stated. AI policy: unknown.</description>
+    </item>
     <item>
       <title>BOUNTY: integrate AWS Comprehend as a utility to redact data</title>
       <link>https://github.com/arakoodev/EdgeChains/issues/290</link>
@@ -45,14 +53,6 @@
       <pubDate>Sun, 27 Sep 2026 17:06:11 GMT</pubDate>
       <category>development, video</category>
       <description>[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also… Reward: Amount not stated. AI policy: unknown.</description>
-    </item>
-    <item>
-      <title>BOUNTY: add support for Google Palm2 API in javascript/typescript</title>
-      <link>https://github.com/arakoodev/EdgeChains/issues/279</link>
-      <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/279</guid>
-      <pubDate>Sat, 26 Sep 2026 12:12:32 GMT</pubDate>
-      <category>development, ai-automation</category>
-      <description>Currently, the javascript SDK supports only openai (https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains/lib/src/lib/endpoints) we want you to add support for Palm2 api from google. https://developers.generativeai.google/ bounty will deemed complete when: you have the classes and typescript types added for… Reward: Amount not stated. AI policy: unknown.</description>
     </item>
   </channel>
 </rss>
