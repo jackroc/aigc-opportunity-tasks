@@ -1,119 +1,5 @@
 [
   {
-    "id": "github-gyroflow-gyroflow-45",
-    "platform_id": "github-bounties",
-    "source_id": "github-gyroflow-bounties",
-    "title": "Optical only stabilization",
-    "summary": "We can try to use just the optical flow to do the stabilization, without using gyro data",
-    "categories": [
-      "development",
-      "video"
-    ],
-    "skills": [
-      "Video engineering"
-    ],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": null,
-      "amount_max": null,
-      "currency": null,
-      "unit": "unknown",
-      "display": "Amount not stated",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2022-02-03T23:15:53.000Z",
-    "source_updated_at": "2026-10-12T01:35:04.000Z",
-    "expires_at": "2026-12-11T01:35:04.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/gyroflow/gyroflow/issues/45",
-    "rules_url": "https://github.com/gyroflow/gyroflow/issues/45",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "reward-not-stated",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 48,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "gyroflow/gyroflow",
-    "source_number": 45
-  },
-  {
-    "id": "github-gyroflow-gyroflow-742",
-    "platform_id": "github-bounties",
-    "source_id": "github-gyroflow-bounties",
-    "title": "Refactor lens profile handling",
-    "summary": "[ ] Create a list of known camera brands, models and lenses. To collect the data use the current lens profile database and the lensfun database. Store it as json in resources and have it auto-update like lens profiles (also should be in git) [ ] Create a list of compatible cameras, lens mounts and sensor sizes, also…",
-    "categories": [
-      "development",
-      "video"
-    ],
-    "skills": [
-      "Video engineering"
-    ],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": null,
-      "amount_max": null,
-      "currency": null,
-      "unit": "unknown",
-      "display": "Amount not stated",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2023-10-12T13:49:04.000Z",
-    "source_updated_at": "2026-10-11T11:26:43.000Z",
-    "expires_at": "2026-12-10T11:26:43.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/gyroflow/gyroflow/issues/742",
-    "rules_url": "https://github.com/gyroflow/gyroflow/issues/742",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "reward-not-stated",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 78,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "gyroflow/gyroflow",
-    "source_number": 742
-  },
-  {
     "id": "github-arakoodev-edgechains-273",
     "platform_id": "github-bounties",
     "source_id": "github-edgechains-bounties",
@@ -146,8 +32,8 @@
     },
     "status": "open",
     "published_at": "2023-11-26T19:15:36.000Z",
-    "source_updated_at": "2026-10-05T02:23:42.000Z",
-    "expires_at": "2026-12-04T02:23:42.000Z",
+    "source_updated_at": "2026-10-14T08:47:06.000Z",
+    "expires_at": "2026-12-13T08:47:06.000Z",
     "deadline": null,
     "application_url": "https://github.com/arakoodev/EdgeChains/issues/273",
     "rules_url": "https://github.com/arakoodev/EdgeChains/issues/273",
@@ -167,7 +53,7 @@
       ]
     },
     "competition": {
-      "comment_count": 84,
+      "comment_count": 86,
       "assignee_count": 0,
       "level": "high"
     },
@@ -205,8 +91,8 @@
     },
     "status": "open",
     "published_at": "2023-11-30T10:03:48.000Z",
-    "source_updated_at": "2026-10-02T16:01:57.000Z",
-    "expires_at": "2026-12-01T16:01:57.000Z",
+    "source_updated_at": "2026-10-14T01:24:11.000Z",
+    "expires_at": "2026-12-13T01:24:11.000Z",
     "deadline": null,
     "application_url": "https://github.com/arakoodev/EdgeChains/issues/279",
     "rules_url": "https://github.com/arakoodev/EdgeChains/issues/279",
@@ -226,7 +112,7 @@
       ]
     },
     "competition": {
-      "comment_count": 50,
+      "comment_count": 53,
       "assignee_count": 0,
       "level": "high"
     },
@@ -263,8 +149,8 @@
     },
     "status": "open",
     "published_at": "2023-12-03T09:33:28.000Z",
-    "source_updated_at": "2026-10-01T20:51:17.000Z",
-    "expires_at": "2026-11-30T20:51:17.000Z",
+    "source_updated_at": "2026-10-13T04:47:35.000Z",
+    "expires_at": "2026-12-12T04:47:35.000Z",
     "deadline": null,
     "application_url": "https://github.com/arakoodev/EdgeChains/issues/290",
     "rules_url": "https://github.com/arakoodev/EdgeChains/issues/290",
@@ -283,68 +169,11 @@
       ]
     },
     "competition": {
-      "comment_count": 84,
+      "comment_count": 86,
       "assignee_count": 0,
       "level": "high"
     },
     "source_repo": "arakoodev/EdgeChains",
     "source_number": 290
-  },
-  {
-    "id": "github-gyroflow-gyroflow-150",
-    "platform_id": "github-bounties",
-    "source_id": "github-gyroflow-bounties",
-    "title": "Support lensfun database",
-    "summary": "https://lensfun.github.io/",
-    "categories": [
-      "development",
-      "video"
-    ],
-    "skills": [
-      "Video engineering"
-    ],
-    "regions": [
-      "global"
-    ],
-    "languages": [
-      "en"
-    ],
-    "reward": {
-      "amount_min": null,
-      "amount_max": null,
-      "currency": null,
-      "unit": "unknown",
-      "display": "Amount not stated",
-      "confirmed": false
-    },
-    "status": "open",
-    "published_at": "2022-02-09T16:07:24.000Z",
-    "source_updated_at": "2026-09-29T21:10:24.000Z",
-    "expires_at": "2026-11-28T21:10:24.000Z",
-    "deadline": null,
-    "application_url": "https://github.com/gyroflow/gyroflow/issues/150",
-    "rules_url": "https://github.com/gyroflow/gyroflow/issues/150",
-    "ai_policy": "unknown",
-    "ai_policy_basis": "check-task-rules",
-    "trust": {
-      "level": "curated",
-      "signals": [
-        "public-source",
-        "curated-source",
-        "open-github-issue"
-      ],
-      "warnings": [
-        "confirm-reward-before-work",
-        "reward-not-stated",
-        "high-visible-competition"
-      ]
-    },
-    "competition": {
-      "comment_count": 39,
-      "assignee_count": 0,
-      "level": "high"
-    },
-    "source_repo": "gyroflow/gyroflow",
-    "source_number": 150
   }
 ]
