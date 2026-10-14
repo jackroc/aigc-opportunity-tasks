@@ -1,6 +1,12 @@
 import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
-import test from "node:test";
+import test, { beforeEach } from "node:test";
+
+// Keep fixtures independent of the day the scheduled workflow runs.
+const TEST_NOW = new Date("2026-08-28T12:00:00Z");
+beforeEach((t) => {
+  t.mock.timers.enable({ apis: ["Date"], now: TEST_NOW });
+});
 
 import {
   buildCalendar,
@@ -70,6 +76,19 @@ test("completed and contributor-locked bounty leads are excluded", () => {
     shouldIncludeIssue(source, { ...issue, body: "This issue is limited only to the creator of this issue. /bounty $250" }),
     false,
   );
+});
+
+test("the default 45-day expiry includes the boundary and excludes older issues", (t) => {
+  const expiresAt = Date.parse(issue.updated_at) + 45 * 86_400_000;
+  for (const [offset, included] of [[-1, true], [0, true], [1, false]]) {
+    t.mock.timers.setTime(expiresAt + offset);
+    assert.equal(shouldIncludeIssue(source, issue), included);
+    assert.equal(normalizeGitHubIssue(source, issue) !== null, included);
+  }
+});
+
+test("invalid update dates are excluded", () => {
+  assert.equal(shouldIncludeIssue(source, { ...issue, updated_at: "invalid" }), false);
 });
 
 test("deduplication keeps the latest canonical task", () => {
