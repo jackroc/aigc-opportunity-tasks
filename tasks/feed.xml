@@ -5,12 +5,12 @@
     <link>https://www.aigccreative.com/tasks/</link>
     <description>Curated public bounty and creator task opportunities.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 01 Nov 2026 18:08:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:21:12 GMT</lastBuildDate>
     <item>
       <title>BOUNTY: add support for qdrant vector database in javascript sdk</title>
       <link>https://github.com/arakoodev/EdgeChains/issues/273</link>
       <guid isPermaLink="true">https://github.com/arakoodev/EdgeChains/issues/273</guid>
-      <pubDate>Sun, 01 Nov 2026 18:08:59 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 00:21:12 GMT</pubDate>
       <category>development, ai-automation</category>
       <description>the javascript sdk here uses postgres/supabase as the default vector database. works well. https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/examples/src/service/HydeSearchService.ts#L64 https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/lib/src/lib/clients/PostgresClient.ts we want to add sup… Reward: Amount not stated. AI policy: unknown.</description>
     </item>
