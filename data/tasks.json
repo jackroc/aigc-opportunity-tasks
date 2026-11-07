@@ -1,20 +1,17 @@
 [
   {
-    "id": "github-arakoodev-edgechains-273",
+    "id": "github-arakoodev-edgechains-290",
     "platform_id": "github-bounties",
     "source_id": "github-edgechains-bounties",
-    "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
-    "summary": "the javascript sdk here uses postgres/supabase as the default vector database. works well. https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/examples/src/service/HydeSearchService.ts#L64 https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/lib/src/lib/clients/PostgresClient.ts we want to add sup…",
+    "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
+    "summary": "this bounty is for the javascript sdk only - https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains links: https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/ https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/ this b…",
     "categories": [
       "development",
       "ai-automation"
     ],
     "skills": [
-      "TypeScript",
       "JavaScript",
-      "API integration",
-      "SQL",
-      "Technical writing"
+      "AWS"
     ],
     "regions": [
       "global"
@@ -23,20 +20,20 @@
       "en"
     ],
     "reward": {
-      "amount_min": null,
-      "amount_max": null,
-      "currency": null,
-      "unit": "unknown",
-      "display": "Amount not stated",
+      "amount_min": 50,
+      "amount_max": 50,
+      "currency": "USD",
+      "unit": "fixed",
+      "display": "$50",
       "confirmed": false
     },
     "status": "open",
-    "published_at": "2023-11-26T19:15:36.000Z",
-    "source_updated_at": "2026-11-07T06:43:53.000Z",
-    "expires_at": "2027-01-06T06:43:53.000Z",
+    "published_at": "2023-12-03T09:33:28.000Z",
+    "source_updated_at": "2026-11-07T08:17:44.000Z",
+    "expires_at": "2027-01-06T08:17:44.000Z",
     "deadline": null,
-    "application_url": "https://github.com/arakoodev/EdgeChains/issues/273",
-    "rules_url": "https://github.com/arakoodev/EdgeChains/issues/273",
+    "application_url": "https://github.com/arakoodev/EdgeChains/issues/290",
+    "rules_url": "https://github.com/arakoodev/EdgeChains/issues/290",
     "ai_policy": "unknown",
     "ai_policy_basis": "check-task-rules",
     "trust": {
@@ -48,17 +45,16 @@
       ],
       "warnings": [
         "confirm-reward-before-work",
-        "reward-not-stated",
         "high-visible-competition"
       ]
     },
     "competition": {
-      "comment_count": 116,
+      "comment_count": 125,
       "assignee_count": 0,
       "level": "high"
     },
     "source_repo": "arakoodev/EdgeChains",
-    "source_number": 273
+    "source_number": 290
   },
   {
     "id": "github-arakoodev-edgechains-279",
@@ -91,8 +87,8 @@
     },
     "status": "open",
     "published_at": "2023-11-30T10:03:48.000Z",
-    "source_updated_at": "2026-11-07T05:45:32.000Z",
-    "expires_at": "2027-01-06T05:45:32.000Z",
+    "source_updated_at": "2026-11-07T08:17:12.000Z",
+    "expires_at": "2027-01-06T08:17:12.000Z",
     "deadline": null,
     "application_url": "https://github.com/arakoodev/EdgeChains/issues/279",
     "rules_url": "https://github.com/arakoodev/EdgeChains/issues/279",
@@ -112,7 +108,7 @@
       ]
     },
     "competition": {
-      "comment_count": 71,
+      "comment_count": 72,
       "assignee_count": 0,
       "level": "high"
     },
@@ -120,18 +116,21 @@
     "source_number": 279
   },
   {
-    "id": "github-arakoodev-edgechains-290",
+    "id": "github-arakoodev-edgechains-273",
     "platform_id": "github-bounties",
     "source_id": "github-edgechains-bounties",
-    "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
-    "summary": "this bounty is for the javascript sdk only - https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains links: https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/ https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/ this b…",
+    "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
+    "summary": "the javascript sdk here uses postgres/supabase as the default vector database. works well. https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/examples/src/service/HydeSearchService.ts#L64 https://github.com/arakoodev/EdgeChains/blob/ts/JS/edgechains/lib/src/lib/clients/PostgresClient.ts we want to add sup…",
     "categories": [
       "development",
       "ai-automation"
     ],
     "skills": [
+      "TypeScript",
       "JavaScript",
-      "AWS"
+      "API integration",
+      "SQL",
+      "Technical writing"
     ],
     "regions": [
       "global"
@@ -140,20 +139,20 @@
       "en"
     ],
     "reward": {
-      "amount_min": 50,
-      "amount_max": 50,
-      "currency": "USD",
-      "unit": "fixed",
-      "display": "$50",
+      "amount_min": null,
+      "amount_max": null,
+      "currency": null,
+      "unit": "unknown",
+      "display": "Amount not stated",
       "confirmed": false
     },
     "status": "open",
-    "published_at": "2023-12-03T09:33:28.000Z",
-    "source_updated_at": "2026-11-07T05:09:32.000Z",
-    "expires_at": "2027-01-06T05:09:32.000Z",
+    "published_at": "2023-11-26T19:15:36.000Z",
+    "source_updated_at": "2026-11-07T08:17:11.000Z",
+    "expires_at": "2027-01-06T08:17:11.000Z",
     "deadline": null,
-    "application_url": "https://github.com/arakoodev/EdgeChains/issues/290",
-    "rules_url": "https://github.com/arakoodev/EdgeChains/issues/290",
+    "application_url": "https://github.com/arakoodev/EdgeChains/issues/273",
+    "rules_url": "https://github.com/arakoodev/EdgeChains/issues/273",
     "ai_policy": "unknown",
     "ai_policy_basis": "check-task-rules",
     "trust": {
@@ -165,15 +164,16 @@
       ],
       "warnings": [
         "confirm-reward-before-work",
+        "reward-not-stated",
         "high-visible-competition"
       ]
     },
     "competition": {
-      "comment_count": 122,
+      "comment_count": 117,
       "assignee_count": 0,
       "level": "high"
     },
     "source_repo": "arakoodev/EdgeChains",
-    "source_number": 290
+    "source_number": 273
   }
 ]
